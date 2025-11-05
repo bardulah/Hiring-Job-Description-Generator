@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Senior Product Manager",
+    "company": "TechCorp",
+    "location": "San Francisco, CA",
+    "salary_range": "$150,000 - $180,000",
+    "description": "We are seeking a Senior Product Manager with 6+ years of experience to lead our mobile app product line. The ideal candidate has proven experience with consumer apps, strong data analysis skills, and a track record of successful product launches.\n\nResponsibilities:\n- Own product strategy and roadmap for mobile applications\n- Collaborate with engineering, design, and marketing teams\n- Conduct user research and market analysis\n- Define and track key product metrics\n- Drive go-to-market strategy\n\nRequirements:\n- 6+ years of product management experience\n- Bachelor's degree in Computer Science, Business, or related field\n- Strong analytical skills with SQL proficiency\n- Experience with A/B testing and product analytics\n- Excellent stakeholder management\n- Experience with agile development"
+  },
+  {
+    "title": "Product Manager",
+    "company": "StartupXYZ",
+    "location": "Remote",
+    "salary_range": "$130,000 - $160,000",
+    "description": "StartupXYZ is looking for a Product Manager to join our fast-growing SaaS team. You will work on our B2B platform helping businesses optimize their operations.\n\nKey Responsibilities:\n- Develop product roadmap and prioritize features\n- Write detailed user stories and product requirements\n- Work closely with engineering to ship features\n- Analyze product metrics and user feedback\n- Support customer success and sales teams\n\nQualifications:\n- 3-5 years product management experience\n- Experience with B2B SaaS products\n- Strong technical background\n- Data-driven decision maker\n- Proven track record of shipping products\n- MBA or technical degree preferred"
+  },
+  {
+    "title": "Lead Product Manager",
+    "company": "Enterprise Solutions Inc",
+    "location": "New York, NY",
+    "salary_range": "$180,000 - $220,000",
+    "description": "We're seeking an experienced Lead Product Manager to drive strategy for our enterprise platform. This role requires deep product expertise, leadership skills, and the ability to work with complex stakeholder environments.\n\nWhat You'll Do:\n- Define product vision and strategy across multiple product lines\n- Lead and mentor team of product managers\n- Partner with executive leadership on strategic initiatives\n- Drive cross-functional alignment\n- Own P&L and business outcomes\n- Build and scale product management processes\n\nRequirements:\n- 10+ years of product management experience\n- Proven track record leading product teams\n- Experience with enterprise B2B products\n- Strong business acumen and financial modeling skills\n- Excellent executive communication\n- Experience with product-led growth"
+  },
+  {
+    "title": "Associate Product Manager",
+    "company": "InnovateCo",
+    "location": "Austin, TX",
+    "salary_range": "$90,000 - $120,000",
+    "description": "InnovateCo is hiring an Associate Product Manager to join our product team. This is a great opportunity for someone early in their PM career or transitioning from a related field.\n\nResponsibilities:\n- Support senior PMs in roadmap planning\n- Conduct user research and gather customer feedback\n- Write user stories and maintain product backlog\n- Analyze product data and metrics\n- Assist with product launches\n- Learn product management best practices\n\nQualifications:\n- 0-2 years product management experience\n- Bachelor's degree required, technical degree preferred\n- Strong analytical and problem-solving skills\n- Excellent communication skills\n- Passion for technology and products\n- Experience with data analysis tools\n- Internship or related experience in product, consulting, or engineering"
+  },
+  {
+    "title": "Senior Product Manager - Platform",
+    "company": "CloudTech",
+    "location": "Seattle, WA (Hybrid)",
+    "salary_range": "$160,000 - $200,000",
+    "description": "CloudTech is looking for a Senior Product Manager to lead our API platform products. You'll work on infrastructure that powers applications for millions of users.\n\nKey Responsibilities:\n- Own platform product strategy and roadmap\n- Work with technical architects on system design\n- Define API specifications and developer experience\n- Build relationships with internal and external developers\n- Drive platform adoption and usage metrics\n- Balance developer needs with business objectives\n\nRequirements:\n- 7+ years product management experience\n- Strong technical background, computer science degree preferred\n- Experience with API products and developer tools\n- Understanding of cloud infrastructure and distributed systems\n- Proven track record with platform or infrastructure products\n- Experience with product-led growth and PLG metrics\n- Strong data analysis skills"
+  }
+]

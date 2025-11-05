@@ -1,0 +1,56 @@
+{
+  "company_name": "Acme Technologies",
+  "department": "Product",
+  "experience_level": "Senior",
+  "location": "San Francisco, CA / Remote",
+  "employment_type": "Full-Time",
+  "mission": "revolutionize how businesses manage their operations through innovative software solutions",
+  "about": "Acme Technologies is a Series B startup backed by leading venture capital firms. We're building the next generation of business operations software, serving over 500 enterprise customers. Our team of 150 people is passionate about solving complex problems and creating delightful user experiences.",
+  "product_focus": "SaaS platforms for enterprise operations management",
+  "salary_range": "$160,000 - $190,000",
+  "equity": "0.15% - 0.25% stock options",
+  "bonus": "Up to 20% annual performance bonus",
+  "benefits": [
+    "Comprehensive health, dental, and vision insurance (100% coverage for employees)",
+    "Unlimited PTO policy",
+    "401(k) with 4% company match",
+    "$3,000 annual professional development budget",
+    "Flexible remote work policy",
+    "$1,000 home office setup stipend",
+    "16 weeks parental leave",
+    "Mental health and wellness programs",
+    "Quarterly team offsites and events",
+    "Latest MacBook Pro and equipment"
+  ],
+  "custom_responsibilities": [
+    "Drive product strategy for our enterprise operations platform",
+    "Partner with our largest customers to understand their needs",
+    "Lead cross-functional initiatives across product, engineering, design, and go-to-market teams"
+  ],
+  "required_qualifications": [
+    "7+ years of product management experience in B2B SaaS",
+    "Proven track record of launching successful enterprise products",
+    "Strong technical background with ability to work closely with engineering teams",
+    "Experience with product-led growth strategies"
+  ],
+  "preferred_qualifications": [
+    "MBA from top-tier program",
+    "Experience at fast-growing Series B-D startups",
+    "Domain expertise in operations management or ERP systems",
+    "Experience managing other product managers"
+  ],
+  "required_skills": [
+    "Advanced SQL and data analysis",
+    "Product analytics tools (Amplitude, Mixpanel)",
+    "Figma or similar design tools",
+    "API and integration knowledge"
+  ],
+  "differentiators": [
+    "Work on products used by Fortune 500 companies",
+    "High-growth startup with proven product-market fit",
+    "Strong engineering culture with latest technologies",
+    "Direct access to leadership and ability to shape company direction",
+    "Competitive compensation with significant equity upside"
+  ],
+  "application_instructions": "Please submit your resume, a cover letter explaining your interest in Acme Technologies, and a brief write-up describing a product you've shipped and the impact it had."
+}

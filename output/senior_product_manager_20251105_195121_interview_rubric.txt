@@ -1,0 +1,464 @@
+
+================================================================================
+INTERVIEW RUBRIC: Senior Product Manager
+Acme Technologies
+================================================================================
+
+Generated: 2025-11-05T19:51:21.044624
+Experience Level: Senior
+Total Interview Time: 5-6 hours
+
+PROCESS OVERVIEW
+================================================================================
+Total Stages: 6-7 stages
+Duration: 3-4 weeks from first contact to offer
+
+Decision Criteria: Must receive strong "hire" recommendation from majority of interviewers, with no strong "no hire" signals
+
+Process Principles:
+• Structured and consistent evaluation across all candidates
+• Multiple perspectives from cross-functional team members
+• Balance of different competency areas
+• Focus on predictive indicators of success
+• Fair and unbiased assessment
+• Positive candidate experience throughout
+
+================================================================================
+INTERVIEW STAGES
+================================================================================
+
+================================================================================
+STAGE 1: RECRUITER SCREENING
+================================================================================
+Duration: 30 minutes
+Interviewer: Recruiter
+Format: Phone or Video Call
+
+Objectives:
+• Assess basic qualifications and experience
+• Evaluate communication skills
+• Gauge interest and motivation
+• Provide role and company overview
+• Discuss compensation expectations
+
+Key Questions:
+1. Walk me through your PM experience and key accomplishments
+2. What interests you about this role and our company?
+3. Describe your experience with product roadmap development
+4. Tell me about your experience working with engineering teams
+5. What are your salary expectations?
+6. What is your timeline and are you interviewing elsewhere?
+
+Evaluation Criteria:
+
+Relevant Experience (Weight: High)
+Signals to look for:
+  • Has required years of PM experience
+  • Experience aligns with role requirements
+  • Relevant product or industry background
+  • Clear career progression
+
+Communication (Weight: High)
+Signals to look for:
+  • Articulates thoughts clearly and concisely
+  • Answers questions directly
+  • Professional and engaging manner
+  • Good listening skills
+
+Motivation (Weight: Medium)
+Signals to look for:
+  • Genuine interest in role and company
+  • Has done research on the company
+  • Career goals align with opportunity
+  • Enthusiastic and positive attitude
+
+Red Flags:
+• Cannot articulate clear PM experience
+• Poor communication or unprepared
+• Compensation expectations significantly misaligned
+• Negative comments about previous employers
+• Lacks basic knowledge about the company
+
+================================================================================
+STAGE 2: PRODUCT SENSE & STRATEGY
+================================================================================
+Duration: 60 minutes
+Interviewer: Senior PM or Product Leader
+Format: Video Call or In-Person
+
+Objectives:
+• Assess product thinking and intuition
+• Evaluate strategic thinking ability
+• Test user empathy and customer focus
+• Assess creativity and problem-solving
+• Evaluate product taste and judgment
+
+Key Questions:
+1. Describe your product vision for [our product category]. How would you differentiate from competitors?
+2. Walk me through how you would build a product strategy for entering [new market]
+3. Tell me about a time you had to pivot product direction. How did you decide?
+4. How do you balance short-term wins with long-term product vision?
+5. Design the next generation of [product category]. What would you build and why?
+
+Evaluation Criteria:
+
+Product Intuition (Weight: High)
+Signals to look for:
+  • Demonstrates strong understanding of user needs
+  • Asks clarifying questions about users and context
+  • Considers multiple perspectives (user, business, technical)
+  • Shows creativity in solution generation
+  • Articulates clear product vision
+
+Strategic Thinking (Weight: High)
+Signals to look for:
+  • Thinks about market positioning and competition
+  • Considers business model and monetization
+  • Connects product decisions to business outcomes
+  • Shows ability to prioritize ruthlessly
+  • Demonstrates long-term thinking
+
+Structured Problem Solving (Weight: Medium)
+Signals to look for:
+  • Uses frameworks to organize thinking
+  • Breaks down complex problems systematically
+  • Makes reasonable assumptions
+  • Identifies trade-offs clearly
+  • Reaches conclusions logically
+
+Scoring Dimensions:
+• User Understanding: How well does candidate understand user needs and pain points?
+• Product Vision: Can they articulate a compelling product direction?
+• Strategic Thinking: Do they connect product decisions to business strategy?
+• Creativity: Do they generate novel and valuable ideas?
+• Trade-off Analysis: Can they evaluate options and make decisions?
+
+Red Flags:
+• Jumps to solutions without understanding problem
+• Focuses only on features without considering outcomes
+• Cannot explain reasoning behind decisions
+• Lacks creativity or only proposes obvious ideas
+• Does not consider business viability
+
+================================================================================
+STAGE 3: EXECUTION & ANALYTICS
+================================================================================
+Duration: 60 minutes
+Interviewer: PM or Engineering Manager
+Format: Video Call or In-Person
+
+Objectives:
+• Assess ability to ship products on time
+• Evaluate data-driven decision making
+• Test project management and organizational skills
+• Assess stakeholder management abilities
+• Evaluate metrics and analytics knowledge
+
+Key Questions:
+1. Describe your approach to building and managing a product roadmap
+2. Tell me about a time you had to coordinate a complex, cross-functional initiative
+3. How do you balance multiple competing priorities from different stakeholders?
+4. Walk me through how you use data to make product decisions
+5. Describe your experience with A/B testing and experimentation
+
+Evaluation Criteria:
+
+Execution Excellence (Weight: High)
+Signals to look for:
+  • Track record of shipping products on time
+  • Strong project management skills
+  • Ability to break down complex projects
+  • Experience with agile/scrum methodologies
+  • Handles ambiguity well
+
+Data & Analytics (Weight: High)
+Signals to look for:
+  • Defines clear success metrics
+  • Uses data to inform decisions
+  • Understands basic statistics and A/B testing
+  • Can interpret data and draw insights
+  • Balances quantitative and qualitative data
+
+Stakeholder Management (Weight: Medium)
+Signals to look for:
+  • Communicates effectively with different audiences
+  • Manages expectations well
+  • Builds consensus across teams
+  • Handles disagreements constructively
+  • Keeps stakeholders informed
+
+Scoring Dimensions:
+• Shipping Track Record: Do they have a history of delivering results?
+• Analytical Thinking: Can they define and use metrics effectively?
+• Process & Organization: Are they structured and organized in their approach?
+• Cross-functional Collaboration: Can they work effectively with different teams?
+• Bias for Action: Do they move quickly and decisively?
+
+Red Flags:
+• Cannot provide examples of shipped products
+• Vague or no understanding of metrics
+• Poor project management skills
+• Blames others for failures
+• Lacks attention to detail
+
+================================================================================
+STAGE 4: TECHNICAL UNDERSTANDING
+================================================================================
+Duration: 45-60 minutes
+Interviewer: Engineering Lead or Technical PM
+Format: Video Call or In-Person
+
+Objectives:
+• Assess technical depth and credibility
+• Evaluate ability to work with engineers
+• Test understanding of system design concepts
+• Assess API and data model understanding
+• Evaluate technical decision-making
+
+Key Questions:
+1. Explain the technical architecture of a product you've worked on
+2. How do you make technical trade-off decisions?
+3. Design the technical architecture for [product/feature]
+4. How would you explain [technical concept] to a non-technical stakeholder?
+5. Tell me about a time you had a technical disagreement with engineering. How did you handle it?
+6. What questions do you ask engineers when scoping a new feature?
+7. How do you evaluate technical debt vs. new features?
+
+Evaluation Criteria:
+
+Technical Depth (Weight: High)
+Signals to look for:
+  • Understands technical concepts relevant to role
+  • Can discuss system architecture intelligently
+  • Knows enough to make informed decisions
+  • Asks good technical questions
+  • Credible with engineering teams
+
+Engineering Collaboration (Weight: High)
+Signals to look for:
+  • Speaks engineers' language
+  • Respects technical constraints
+  • Balances ideal vs. practical solutions
+  • Builds trust with technical teams
+  • Values engineering input
+
+Technical Decision Making (Weight: Medium)
+Signals to look for:
+  • Makes informed technical trade-offs
+  • Considers scalability and maintainability
+  • Understands technical debt
+  • Can evaluate build vs. buy decisions
+  • Balances speed with quality
+
+Red Flags:
+• No understanding of basic technical concepts
+• Cannot explain technical aspects of previous work
+• Dismissive of technical constraints
+• Poor relationship with engineering teams
+• Makes unrealistic technical assumptions
+
+================================================================================
+STAGE 5: LEADERSHIP & INFLUENCE
+================================================================================
+Duration: 60 minutes
+Interviewer: Product Leader or Cross-functional Executive
+Format: Video Call or In-Person
+
+Objectives:
+• Assess leadership style and effectiveness
+• Evaluate ability to influence without authority
+• Test mentorship and people development skills
+• Assess strategic influence at senior levels
+• Evaluate change management abilities
+
+Key Questions:
+1. Tell me about your leadership philosophy
+2. Describe a time you had to influence a decision without having authority
+3. How do you develop and mentor other PMs?
+4. Tell me about a time you led a major organizational change
+5. How do you build alignment across senior leadership?
+6. Describe a situation where you had to make an unpopular decision
+7. How do you create a culture of excellence in product management?
+8. Tell me about a time you had to course-correct a team or project
+
+Evaluation Criteria:
+
+Leadership Impact (Weight: High)
+Signals to look for:
+  • Clear leadership philosophy and examples
+  • Drives results through others
+  • Inspires and motivates teams
+  • Takes ownership and accountability
+  • Leads through ambiguity
+
+Influence & Communication (Weight: High)
+Signals to look for:
+  • Influences across all levels
+  • Builds coalition and consensus
+  • Excellent executive communication
+  • Handles conflict constructively
+  • Persuasive and compelling
+
+People Development (Weight: Medium)
+Signals to look for:
+  • Invests in developing others
+  • Provides effective feedback
+  • Creates growth opportunities
+  • Builds high-performing teams
+  • Attracts and retains talent
+
+Scoring Dimensions:
+• Leadership Style: Do they demonstrate effective leadership?
+• Influence: Can they drive decisions across the organization?
+• Strategic Impact: Do they operate at the right level of strategy?
+• People Development: Do they grow and develop others?
+• Change Leadership: Can they lead through transformation?
+
+Red Flags:
+• No examples of leadership or influence
+• Weak executive presence
+• Cannot articulate leadership philosophy
+• Does not invest in people development
+• Avoids conflict or difficult conversations
+
+================================================================================
+STAGE 6: BEHAVIORAL & CULTURAL FIT
+================================================================================
+Duration: 45 minutes
+Interviewer: Cross-functional Partner (Design, Marketing, Sales, Data)
+Format: Video Call or In-Person
+
+Objectives:
+• Assess alignment with company values
+• Evaluate collaboration style
+• Test self-awareness and growth mindset
+• Assess resilience and adaptability
+• Evaluate culture add (not just fit)
+
+Key Questions:
+1. Tell me about a time you failed. What did you learn?
+2. Describe a situation where you had conflict with a colleague. How did you resolve it?
+3. Tell me about a time you had to adapt to significant change
+4. Describe your ideal work environment and team culture
+5. What are you passionate about outside of work?
+6. Tell me about a time you gave difficult feedback to someone
+7. Describe a situation where you had to work with someone very different from you
+8. What does diversity and inclusion mean to you in practice?
+9. Tell me about a time you went above and beyond
+10. What are you looking for in your next role and why?
+
+Evaluation Criteria:
+
+Values Alignment (Weight: High)
+Signals to look for:
+  • Demonstrates company values in examples
+  • Genuine alignment with mission
+  • Will thrive in company culture
+  • Adds to culture positively
+  • Shares team working style
+
+Growth Mindset (Weight: High)
+Signals to look for:
+  • Learns from failures and mistakes
+  • Seeks feedback actively
+  • Self-aware about strengths and weaknesses
+  • Continuously improving
+  • Embraces challenges
+
+Collaboration (Weight: Medium)
+Signals to look for:
+  • Works well with different personalities
+  • Values diverse perspectives
+  • Resolves conflicts constructively
+  • Builds strong relationships
+  • Team player mentality
+
+Scoring Dimensions:
+• Cultural Alignment: Will they thrive in our culture?
+• Values Match: Do they demonstrate our core values?
+• Growth Mindset: Do they learn and adapt?
+• Collaboration Style: Will they work well with the team?
+• Motivation: Are they motivated by the right things?
+
+Red Flags:
+• Blames others consistently
+• Not self-aware
+• Poor attitude or negative energy
+• Misalignment with core values
+• Red flags in reference checks
+
+================================================================================
+STAGE 7: FINAL ROUND - EXECUTIVE INTERVIEW
+================================================================================
+Duration: 45-60 minutes
+Interviewer: CEO or CPO
+Format: Video Call or In-Person
+
+Objectives:
+• Final assessment of candidate fit
+• Evaluate strategic thinking at highest level
+• Executive-level sell of role and company
+• Address any remaining concerns
+• Assess culture and values match
+
+Key Questions:
+1. Why are you interested in this role and our company?
+2. Where do you see yourself in 3-5 years?
+3. What do you think our biggest product challenges are?
+4. How would you approach your first 90 days?
+5. What questions do you have for me?
+6. What would make you excited to join our company?
+7. Tell me about the most impactful thing you've done in your career
+8. What's your take on [industry trend or company strategic direction]?
+
+Evaluation Criteria:
+
+Strategic Caliber (Weight: High)
+Signals to look for:
+  • Thinks at appropriate strategic level
+  • Understands market and industry dynamics
+  • Asks insightful questions
+  • Demonstrates business acumen
+  • Has informed perspective on company direction
+
+Motivation & Fit (Weight: High)
+Signals to look for:
+  • Genuinely excited about company and role
+  • Clear alignment with mission and values
+  • Will stay and grow with company
+  • Positive energy and culture add
+  • Mutual excitement
+
+Red Flags:
+• Not well prepared or knowledgeable about company
+• Lack of strategic thinking
+• Poor executive communication
+• Not genuinely interested
+• Misalignment on vision or values
+
+================================================================================
+EVALUATION FRAMEWORK
+================================================================================
+
+Rating Scale:
+
+Strong Hire:
+Exceptional candidate. Top 5% of candidates. Multiple areas of excellence. No significant weaknesses.
+
+Hire:
+Strong candidate. Meets all requirements with some areas of strength. Minor weaknesses that are not deal-breakers.
+
+Maybe:
+Borderline candidate. Mixed signals. Has strengths but also concerns. Needs discussion.
+
+No Hire:
+Does not meet bar. Significant gaps or concerns. Would not be successful in role.
+
+Key Competencies:
+• Product Sense (Critical) - evaluated in Product Sense interview
+• Execution (Critical) - evaluated in Execution & Analytics interview
+• Technical Acumen (Important) - evaluated in Technical Understanding interview
+• Leadership & Influence (Important (Critical for Senior+)) - evaluated in Leadership interview
+• Communication (Important) - evaluated in All interviews
+• Cultural Fit (Important) - evaluated in Behavioral interview
+• Strategic Thinking (Critical for Senior+) - evaluated in Product Sense and Final interviews
