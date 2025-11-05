@@ -1,0 +1,360 @@
+
+================================================================================
+HIRING TIMELINE: Senior Product Manager
+Acme Technologies
+================================================================================
+
+Generated: 2025-11-05T19:51:21.044693
+Start Date: 2025-11-05
+Estimated Duration: 10 weeks
+Target Hire Date: 2026-01-14
+
+PHASES
+================================================================================
+
+Phase 1: Preparation & Setup
+Duration: 1 week (2025-11-05 to 2025-11-12)
+Success Criteria: Ready to begin active sourcing and screening
+
+Objectives:
+  • Finalize job description and requirements
+  • Set up interview process and rubrics
+  • Brief hiring team and interviewers
+  • Set up job postings and sourcing channels
+  • Prepare recruiting materials
+
+Deliverables:
+  • Approved job description
+  • Interview rubrics and questions
+  • Trained interview panel
+  • Active job postings
+  • Sourcing campaign launched
+
+
+Phase 2: Sourcing & Initial Screening
+Duration: 3 weeks (2025-11-12 to 2025-12-03)
+Success Criteria: Strong pipeline of qualified candidates ready for interviews
+
+Objectives:
+  • Build strong candidate pipeline
+  • Conduct recruiter screening calls
+  • Identify top candidates for interviews
+  • Engage passive candidates
+  • Maintain candidate pipeline
+
+Deliverables:
+  • Sourced 100 candidates
+  • Completed 40 screening calls
+  • Advanced 20 candidates to first round
+  • Pipeline dashboard updated weekly
+
+
+Phase 3: First Round Interviews
+Duration: 4 weeks (2025-11-19 to 2025-12-17)
+Success Criteria: Strong finalist slate advanced to final rounds
+
+Objectives:
+  • Conduct product sense interviews
+  • Conduct execution interviews
+  • Assess technical understanding
+  • Evaluate culture fit
+  • Identify finalists
+
+Deliverables:
+  • All first round interviews completed
+  • Interview feedback submitted
+  • 8 finalists identified
+  • Debrief sessions held
+
+
+Phase 4: Final Round Interviews
+Duration: 2 weeks (2025-12-17 to 2025-12-31)
+Success Criteria: Ready to extend offers to top candidate(s)
+
+Objectives:
+  • Conduct leadership/senior stakeholder interviews
+  • Complete reference checks
+  • Hold team debrief and make decisions
+  • Prepare offer packages
+  • Address any remaining questions
+
+Deliverables:
+  • All final interviews completed
+  • Reference checks completed
+  • Hiring decisions made
+  • Offer packages prepared
+  • Offer approval obtained
+
+
+Phase 5: Offer & Close
+Duration: 2 weeks (2025-12-31 to 2026-01-14)
+Success Criteria: Offer accepted and candidate ready to start
+
+Objectives:
+  • Extend offers to top candidates
+  • Negotiate and finalize offer terms
+  • Obtain offer acceptance
+  • Begin onboarding preparation
+  • Close out search
+
+Deliverables:
+  • Offers extended
+  • Offer accepted
+  • Background check completed
+  • Start date confirmed
+  • Onboarding plan ready
+
+
+KEY MILESTONES
+================================================================================
+
+2025-11-08: Job Posting Live [CRITICAL]
+  Job description finalized and posted on all channels
+
+2025-11-12: First Candidates Screened
+  Initial batch of recruiter screens completed
+
+2025-11-19: First Round Interviews Begin [CRITICAL]
+  First candidates move to interview stage
+
+2025-12-17: Finalist Slate Identified [CRITICAL]
+  Strong finalists identified for final rounds
+
+2025-12-24: Final Interviews Complete [CRITICAL]
+  All final interviews and reference checks done
+
+2025-12-31: Offer Extended [CRITICAL]
+  Offer extended to top candidate
+
+2026-01-14: Offer Accepted [CRITICAL]
+  Candidate accepts offer and signs paperwork
+
+
+WEEKLY BREAKDOWN
+================================================================================
+
+WEEK 1 (2025-11-05 to 2025-11-11)
+Phase: Preparation & Setup
+Key Activities:
+  • Finalize and approve job description
+  • Create and distribute interview rubrics
+  • Brief hiring team and train interviewers
+  • Post job on LinkedIn, company site, and job boards
+  • Launch referral campaign internally
+  • Begin direct sourcing and outreach
+  • Set up applicant tracking workflow
+Metrics to Track:
+  • Job postings live (target: all channels)
+  • Hiring team trained (target: 100%)
+  • Sourcing channels activated
+Team Involved: Hiring Manager, Recruiter, HR/People Ops, Interview Panel
+
+WEEK 2 (2025-11-12 to 2025-11-18)
+Phase: Sourcing & Initial Screening
+Key Activities:
+  • Continue sourcing candidates via multiple channels
+  • Review incoming applications daily
+  • Conduct 8-12 recruiter screening calls
+  • Update candidate pipeline dashboard
+  • Engage with employee referrals
+  • Post in PM communities and networks
+  • Identify candidates for first round interviews
+Metrics to Track:
+  • Applications received (target: 20+ per week)
+  • Screening calls completed (target: 8-12 per week)
+  • Screen-to-interview conversion rate (target: 50%)
+  • Pipeline health: ratio of candidates to roles
+Team Involved: Recruiter (primary), Hiring Manager, Recruiting Coordinator
+
+WEEK 3 (2025-11-19 to 2025-11-25)
+Phase: Sourcing & Initial Screening
+Key Activities:
+  • Continue sourcing candidates via multiple channels
+  • Review incoming applications daily
+  • Conduct 8-12 recruiter screening calls
+  • Update candidate pipeline dashboard
+  • Engage with employee referrals
+  • Post in PM communities and networks
+  • Identify candidates for first round interviews
+Metrics to Track:
+  • Applications received (target: 20+ per week)
+  • Screening calls completed (target: 8-12 per week)
+  • Screen-to-interview conversion rate (target: 50%)
+  • Pipeline health: ratio of candidates to roles
+Team Involved: Recruiter (primary), Hiring Manager, Recruiting Coordinator
+
+WEEK 4 (2025-11-26 to 2025-12-02)
+Phase: First Round Interviews
+Key Activities:
+  • Schedule and conduct product sense interviews
+  • Schedule and conduct execution interviews
+  • Schedule and conduct technical interviews
+  • Collect and review interview feedback
+  • Hold debrief sessions for each candidate
+  • Continue sourcing to maintain pipeline
+  • Identify finalists for final rounds
+Metrics to Track:
+  • Interviews conducted (target: 5-8 per week)
+  • Interview-to-finalist conversion (target: 40%)
+  • Time to feedback (target: <24 hours)
+  • Candidate satisfaction scores
+Team Involved: Product Managers, Engineering Managers, Design Leads, Recruiter, Recruiting Coordinator
+
+WEEK 5 (2025-12-03 to 2025-12-09)
+Phase: First Round Interviews
+Key Activities:
+  • Schedule and conduct product sense interviews
+  • Schedule and conduct execution interviews
+  • Schedule and conduct technical interviews
+  • Collect and review interview feedback
+  • Hold debrief sessions for each candidate
+  • Continue sourcing to maintain pipeline
+  • Identify finalists for final rounds
+Metrics to Track:
+  • Interviews conducted (target: 5-8 per week)
+  • Interview-to-finalist conversion (target: 40%)
+  • Time to feedback (target: <24 hours)
+  • Candidate satisfaction scores
+Team Involved: Product Managers, Engineering Managers, Design Leads, Recruiter, Recruiting Coordinator
+
+WEEK 6 (2025-12-10 to 2025-12-16)
+Phase: First Round Interviews
+Key Activities:
+  • Schedule and conduct product sense interviews
+  • Schedule and conduct execution interviews
+  • Schedule and conduct technical interviews
+  • Collect and review interview feedback
+  • Hold debrief sessions for each candidate
+  • Continue sourcing to maintain pipeline
+  • Identify finalists for final rounds
+Metrics to Track:
+  • Interviews conducted (target: 5-8 per week)
+  • Interview-to-finalist conversion (target: 40%)
+  • Time to feedback (target: <24 hours)
+  • Candidate satisfaction scores
+Team Involved: Product Managers, Engineering Managers, Design Leads, Recruiter, Recruiting Coordinator
+
+WEEK 7 (2025-12-17 to 2025-12-23)
+Phase: First Round Interviews
+Key Activities:
+  • Schedule and conduct product sense interviews
+  • Schedule and conduct execution interviews
+  • Schedule and conduct technical interviews
+  • Collect and review interview feedback
+  • Hold debrief sessions for each candidate
+  • Continue sourcing to maintain pipeline
+  • Identify finalists for final rounds
+Metrics to Track:
+  • Interviews conducted (target: 5-8 per week)
+  • Interview-to-finalist conversion (target: 40%)
+  • Time to feedback (target: <24 hours)
+  • Candidate satisfaction scores
+Team Involved: Product Managers, Engineering Managers, Design Leads, Recruiter, Recruiting Coordinator
+
+WEEK 8 (2025-12-24 to 2025-12-30)
+Phase: Final Round Interviews
+Key Activities:
+  • Schedule final round with leadership
+  • Conduct behavioral and culture fit interviews
+  • Complete reference checks
+  • Hold final debrief and make decisions
+  • Prepare offer packages and get approvals
+  • Begin back-channel references if appropriate
+  • Keep candidates engaged and informed
+Metrics to Track:
+  • Final interviews completed
+  • Reference checks completed
+  • Offer approval status
+  • Days to decision
+Team Involved: Hiring Manager, VP Product/CTO, Cross-functional Leaders, CEO (for senior roles), Recruiter
+
+WEEK 9 (2025-12-31 to 2026-01-06)
+Phase: Final Round Interviews
+Key Activities:
+  • Schedule final round with leadership
+  • Conduct behavioral and culture fit interviews
+  • Complete reference checks
+  • Hold final debrief and make decisions
+  • Prepare offer packages and get approvals
+  • Begin back-channel references if appropriate
+  • Keep candidates engaged and informed
+Metrics to Track:
+  • Final interviews completed
+  • Reference checks completed
+  • Offer approval status
+  • Days to decision
+Team Involved: Hiring Manager, VP Product/CTO, Cross-functional Leaders, CEO (for senior roles), Recruiter
+
+WEEK 10 (2026-01-07 to 2026-01-13)
+Phase: Offer & Close
+Key Activities:
+  • Extend offers to selected candidate(s)
+  • Schedule offer call with hiring manager
+  • Negotiate terms if needed
+  • Answer candidate questions and concerns
+  • Obtain signed offer letter
+  • Initiate background check
+  • Begin onboarding preparation
+  • Communicate with other candidates
+Metrics to Track:
+  • Offers extended
+  • Offer acceptance rate (target: 80%+)
+  • Days from offer to acceptance
+  • Onboarding readiness
+Team Involved: Hiring Manager, Recruiter, HR/People Ops, Finance (for approvals), IT (for onboarding)
+
+
+DEPENDENCIES & RISKS
+================================================================================
+
+First Round Interviews depends on Recruiter Screening Complete
+  Impact: Cannot start interviews without screened candidates
+
+Final Round Interviews depends on First Round Debrief Complete
+  Impact: Need to identify finalists before final rounds
+
+Offer Extension depends on Reference Checks Complete
+  Impact: Must complete due diligence before offer
+
+Interview Scheduling depends on Panel Availability
+  Impact: Limited interview slots can slow process
+
+Offer Approval depends on Budget Approval & Comp Review
+  Impact: Cannot extend offer without approval
+
+Start Date depends on Background Check Complete
+  Impact: Cannot onboard until background cleared
+
+
+TIMELINE RISKS
+================================================================================
+
+Delayed Start (Week 1)
+  Impact: Pushes entire timeline
+  Mitigation: Complete all prep work before official start date
+  Buffer: Build in 1 week buffer
+
+Slow Pipeline Build (Weeks 2-3)
+  Impact: Insufficient candidates for interviews
+  Mitigation: Multi-channel sourcing, start early, leverage referrals
+  Buffer: Target 3x pipeline coverage
+
+Interview Scheduling Delays (Weeks 4-7)
+  Impact: Extended time-to-hire, candidate drop-off
+  Mitigation: Block recurring interview slots, train backup interviewers
+  Buffer: Schedule 1-2 weeks out
+
+Candidate Drops Out (Any time)
+  Impact: Need to restart with new candidates
+  Mitigation: Maintain warm pipeline, move quickly, stay engaged
+  Buffer: Keep multiple candidates moving through process
+
+Offer Negotiation Extends (Weeks 9-10)
+  Impact: Delayed start date
+  Mitigation: Discuss comp early, understand expectations, have flexibility
+  Buffer: Build 1 week into offer phase
+
+Background Check Delays (Week 10+)
+  Impact: Cannot confirm start date
+  Mitigation: Use reputable background check vendor, initiate immediately
+  Buffer: Allow 1-2 weeks for background check

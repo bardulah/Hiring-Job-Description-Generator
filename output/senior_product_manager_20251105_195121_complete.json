@@ -1,0 +1,1927 @@
+{
+  "metadata": {
+    "generated_date": "2025-11-05T19:51:21.044932",
+    "system_version": "1.0.0",
+    "company": "Acme Technologies",
+    "role": "Senior Product Manager"
+  },
+  "analysis": {
+    "total_analyzed": 5,
+    "common_skills": {
+      "roadmap": 4,
+      "metrics": 4,
+      "data analysis": 3,
+      "product strategy": 2,
+      "user research": 2,
+      "user stories": 2,
+      "b2b": 2,
+      "stakeholder management": 1,
+      "agile": 1,
+      "sql": 1,
+      "analytics": 1,
+      "a/b testing": 1,
+      "go-to-market": 1,
+      "mobile": 1,
+      "saas": 1,
+      "product vision": 1,
+      "cross-functional": 1,
+      "api": 1
+    },
+    "common_responsibilities": {
+      "Own product strategy and roadmap for mobile applications": 1,
+      "Collaborate with engineering, design, and marketing teams": 1,
+      "Conduct user research and market analysis": 1,
+      "Define and track key product metrics": 1,
+      "Drive go-to-market strategy": 1,
+      "6+ years of product management experience": 1,
+      "Bachelor's degree in Computer Science, Business, or related field": 1,
+      "Strong analytical skills with SQL proficiency": 1,
+      "Experience with A/B testing and product analytics": 1,
+      "Excellent stakeholder management": 1,
+      "Experience with agile development": 1,
+      "Develop product roadmap and prioritize features": 1,
+      "Write detailed user stories and product requirements": 1,
+      "Work closely with engineering to ship features": 1,
+      "Analyze product metrics and user feedback": 1,
+      "Support customer success and sales teams": 1,
+      "3-5 years product management experience": 1,
+      "Experience with B2B SaaS products": 1,
+      "Strong technical background": 1,
+      "Data-driven decision maker": 1,
+      "Proven track record of shipping products": 1,
+      "MBA or technical degree preferred": 1,
+      "Define product vision and strategy across multiple product lines": 1,
+      "Lead and mentor team of product managers": 1,
+      "Partner with executive leadership on strategic initiatives": 1,
+      "Drive cross-functional alignment": 1,
+      "Own P&L and business outcomes": 1,
+      "Build and scale product management processes": 1,
+      "10+ years of product management experience": 1,
+      "Proven track record leading product teams": 1,
+      "Experience with enterprise B2B products": 1,
+      "Strong business acumen and financial modeling skills": 1,
+      "Excellent executive communication": 1,
+      "Experience with product-led growth": 1,
+      "Support senior PMs in roadmap planning": 1,
+      "Conduct user research and gather customer feedback": 1,
+      "Write user stories and maintain product backlog": 1,
+      "Analyze product data and metrics": 1,
+      "Assist with product launches": 1,
+      "Learn product management best practices": 1,
+      "0-2 years product management experience": 1,
+      "Bachelor's degree required, technical degree preferred": 1,
+      "Strong analytical and problem-solving skills": 1,
+      "Excellent communication skills": 1,
+      "Passion for technology and products": 1,
+      "Experience with data analysis tools": 1,
+      "Internship or related experience in product, consulting, or engineering": 1,
+      "Own platform product strategy and roadmap": 1,
+      "Work with technical architects on system design": 1,
+      "Define API specifications and developer experience": 1,
+      "Build relationships with internal and external developers": 1,
+      "Drive platform adoption and usage metrics": 1,
+      "Balance developer needs with business objectives": 1,
+      "7+ years product management experience": 1,
+      "Strong technical background, computer science degree preferred": 1,
+      "Experience with API products and developer tools": 1,
+      "Understanding of cloud infrastructure and distributed systems": 1,
+      "Proven track record with platform or infrastructure products": 1,
+      "Experience with product-led growth and PLG metrics": 1,
+      "Strong data analysis skills": 1
+    },
+    "common_qualifications": {
+      "proven track record": 3,
+      "bachelor's degree": 2,
+      "6+ years of experience": 1,
+      "experience with consumer apps, strong data analysis skills, and a track record of successful product launches": 1,
+      "experience with a/b testing and product analytics\n- excellent stakeholder management\n- experience with agile development": 1,
+      "mba": 1,
+      "experience with b2b saas products\n- strong technical background\n- data-driven decision maker\n- proven track record of shipping products\n- mba or technical degree preferred": 1,
+      "experience with enterprise b2b products\n- strong business acumen and financial modeling skills\n- excellent executive communication\n- experience with product-led growth": 1,
+      "experience with data analysis tools\n- internship or related experience in product, consulting, or engineering": 1,
+      "experience with api products and developer tools\n- understanding of cloud infrastructure and distributed systems\n- proven track record with platform or infrastructure products\n- experience with product-led growth and plg metrics\n- strong data analysis skills": 1
+    },
+    "insights": [
+      {
+        "title": "Senior Product Manager",
+        "company": "TechCorp",
+        "skills": [
+          "product strategy",
+          "roadmap",
+          "stakeholder management",
+          "agile",
+          "data analysis",
+          "sql",
+          "analytics",
+          "a/b testing",
+          "user research",
+          "metrics",
+          "go-to-market",
+          "mobile"
+        ],
+        "responsibilities": [
+          "Own product strategy and roadmap for mobile applications",
+          "Collaborate with engineering, design, and marketing teams",
+          "Conduct user research and market analysis",
+          "Define and track key product metrics",
+          "Drive go-to-market strategy",
+          "6+ years of product management experience",
+          "Bachelor's degree in Computer Science, Business, or related field",
+          "Strong analytical skills with SQL proficiency",
+          "Experience with A/B testing and product analytics",
+          "Excellent stakeholder management",
+          "Experience with agile development"
+        ],
+        "qualifications": [
+          "6+ years of experience",
+          "bachelor's degree",
+          "experience with consumer apps, strong data analysis skills, and a track record of successful product launches",
+          "experience with a/b testing and product analytics\n- excellent stakeholder management\n- experience with agile development"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$150,000 - $180,000",
+        "location": "San Francisco, CA",
+        "remote_policy": "Not Specified"
+      },
+      {
+        "title": "Product Manager",
+        "company": "StartupXYZ",
+        "skills": [
+          "roadmap",
+          "metrics",
+          "user stories",
+          "saas",
+          "b2b"
+        ],
+        "responsibilities": [
+          "Develop product roadmap and prioritize features",
+          "Write detailed user stories and product requirements",
+          "Work closely with engineering to ship features",
+          "Analyze product metrics and user feedback",
+          "Support customer success and sales teams",
+          "3-5 years product management experience",
+          "Experience with B2B SaaS products",
+          "Strong technical background",
+          "Data-driven decision maker",
+          "Proven track record of shipping products",
+          "MBA or technical degree preferred"
+        ],
+        "qualifications": [
+          "mba",
+          "proven track record",
+          "experience with b2b saas products\n- strong technical background\n- data-driven decision maker\n- proven track record of shipping products\n- mba or technical degree preferred"
+        ],
+        "experience_level": "Mid-Level",
+        "salary_range": "$130,000 - $160,000",
+        "location": "Remote",
+        "remote_policy": "Not Specified"
+      },
+      {
+        "title": "Lead Product Manager",
+        "company": "Enterprise Solutions Inc",
+        "skills": [
+          "product vision",
+          "cross-functional",
+          "b2b"
+        ],
+        "responsibilities": [
+          "Define product vision and strategy across multiple product lines",
+          "Lead and mentor team of product managers",
+          "Partner with executive leadership on strategic initiatives",
+          "Drive cross-functional alignment",
+          "Own P&L and business outcomes",
+          "Build and scale product management processes",
+          "10+ years of product management experience",
+          "Proven track record leading product teams",
+          "Experience with enterprise B2B products",
+          "Strong business acumen and financial modeling skills",
+          "Excellent executive communication",
+          "Experience with product-led growth"
+        ],
+        "qualifications": [
+          "proven track record",
+          "experience with enterprise b2b products\n- strong business acumen and financial modeling skills\n- excellent executive communication\n- experience with product-led growth"
+        ],
+        "experience_level": "Lead/Principal",
+        "salary_range": "$180,000 - $220,000",
+        "location": "New York, NY",
+        "remote_policy": "Not Specified"
+      },
+      {
+        "title": "Associate Product Manager",
+        "company": "InnovateCo",
+        "skills": [
+          "roadmap",
+          "data analysis",
+          "user research",
+          "metrics",
+          "user stories"
+        ],
+        "responsibilities": [
+          "Support senior PMs in roadmap planning",
+          "Conduct user research and gather customer feedback",
+          "Write user stories and maintain product backlog",
+          "Analyze product data and metrics",
+          "Assist with product launches",
+          "Learn product management best practices",
+          "0-2 years product management experience",
+          "Bachelor's degree required, technical degree preferred",
+          "Strong analytical and problem-solving skills",
+          "Excellent communication skills",
+          "Passion for technology and products",
+          "Experience with data analysis tools",
+          "Internship or related experience in product, consulting, or engineering"
+        ],
+        "qualifications": [
+          "bachelor's degree",
+          "experience with data analysis tools\n- internship or related experience in product, consulting, or engineering"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$90,000 - $120,000",
+        "location": "Austin, TX",
+        "remote_policy": "Not Specified"
+      },
+      {
+        "title": "Senior Product Manager - Platform",
+        "company": "CloudTech",
+        "skills": [
+          "product strategy",
+          "roadmap",
+          "data analysis",
+          "metrics",
+          "api"
+        ],
+        "responsibilities": [
+          "Own platform product strategy and roadmap",
+          "Work with technical architects on system design",
+          "Define API specifications and developer experience",
+          "Build relationships with internal and external developers",
+          "Drive platform adoption and usage metrics",
+          "Balance developer needs with business objectives",
+          "7+ years product management experience",
+          "Strong technical background, computer science degree preferred",
+          "Experience with API products and developer tools",
+          "Understanding of cloud infrastructure and distributed systems",
+          "Proven track record with platform or infrastructure products",
+          "Experience with product-led growth and PLG metrics",
+          "Strong data analysis skills"
+        ],
+        "qualifications": [
+          "proven track record",
+          "experience with api products and developer tools\n- understanding of cloud infrastructure and distributed systems\n- proven track record with platform or infrastructure products\n- experience with product-led growth and plg metrics\n- strong data analysis skills"
+        ],
+        "experience_level": "Senior",
+        "salary_range": "$160,000 - $200,000",
+        "location": "Seattle, WA (Hybrid)",
+        "remote_policy": "Not Specified"
+      }
+    ]
+  },
+  "job_description": {
+    "metadata": {
+      "generated_date": "2025-11-05T19:51:21.044453",
+      "version": "1.0",
+      "company": "Acme Technologies",
+      "department": "Product",
+      "experience_level": "Senior"
+    },
+    "header": {
+      "title": "Senior Product Manager",
+      "company": "Acme Technologies",
+      "location": "San Francisco, CA / Remote",
+      "type": "Full-Time",
+      "department": "Product"
+    },
+    "overview": "About Acme Technologies:\nAcme Technologies is a Series B startup backed by leading venture capital firms. We're building the next generation of business operations software, serving over 500 enterprise customers. Our team of 150 people is passionate about solving complex problems and creating delightful user experiences.\n\nRole Overview:\nWe are seeking a talented Product Manager to join our dynamic team. In this role, you will be responsible for driving product strategy, working with cross-functional teams, and delivering exceptional products that delight our customers. You will own the product roadmap and work closely with engineering, design, marketing, and sales to bring innovative solutions to market.\n\nThis role is perfect for someone who is passionate about SaaS platforms for enterprise operations management and wants to make a significant impact on our product direction and company growth.",
+    "responsibilities": [
+      "Lead product strategy and vision for key product areas",
+      "Own and manage product roadmap, prioritizing features based on business impact",
+      "Conduct user research and market analysis to identify opportunities",
+      "Work closely with engineering teams to define technical requirements and specifications",
+      "Drive go-to-market strategy in collaboration with marketing and sales teams",
+      "Define and track key product metrics and success criteria",
+      "Present product updates and strategic recommendations to executive leadership",
+      "Mentor junior product managers and contribute to PM practice development",
+      "Lead cross-functional initiatives and drive alignment across teams",
+      "Drive product strategy for our enterprise operations platform",
+      "Partner with our largest customers to understand their needs",
+      "Lead cross-functional initiatives across product, engineering, design, and go-to-market teams",
+      "Own product strategy and roadmap for mobile applications",
+      "Collaborate with engineering, design, and marketing teams"
+    ],
+    "qualifications": {
+      "required": [
+        "Lead product strategy and vision for key product areas",
+        "Own and manage product roadmap, prioritizing features based on business impact",
+        "Conduct user research and market analysis to identify opportunities",
+        "Work closely with engineering teams to define technical requirements and specifications",
+        "Drive go-to-market strategy in collaboration with marketing and sales teams",
+        "Define and track key product metrics and success criteria",
+        "Present product updates and strategic recommendations to executive leadership",
+        "Mentor junior product managers and contribute to PM practice development",
+        "Lead cross-functional initiatives and drive alignment across teams",
+        "7+ years of product management experience in B2B SaaS",
+        "Proven track record of launching successful enterprise products",
+        "Strong technical background with ability to work closely with engineering teams",
+        "Experience with product-led growth strategies"
+      ],
+      "preferred": [
+        "MBA from top-tier program",
+        "Experience at fast-growing Series B-D startups",
+        "Domain expertise in operations management or ERP systems",
+        "Experience managing other product managers",
+        "proven track record",
+        "bachelor's degree",
+        "6+ years of experience",
+        "experience with consumer apps, strong data analysis skills, and a track record of successful product launches",
+        "experience with a/b testing and product analytics\n- excellent stakeholder management\n- experience with agile development"
+      ]
+    },
+    "skills": {
+      "technical": [
+        "Data analysis and metrics-driven decision making",
+        "Product roadmap development",
+        "Agile/Scrum methodologies",
+        "SQL or similar data query languages",
+        "A/B testing and experimentation",
+        "Analytics tools (e.g., Google Analytics, Mixpanel, Amplitude)",
+        "Advanced SQL and data analysis",
+        "Product analytics tools (Amplitude, Mixpanel)",
+        "Figma or similar design tools",
+        "API and integration knowledge",
+        "Product Strategy",
+        "User Research",
+        "User Stories",
+        "B2B",
+        "Mobile",
+        "Saas"
+      ],
+      "business": [
+        "Strategic thinking and product vision",
+        "Market and competitive analysis",
+        "Go-to-market strategy",
+        "Business case development",
+        "Pricing and monetization",
+        "Financial modeling and P&L management"
+      ],
+      "soft_skills": [
+        "Excellent communication and presentation skills",
+        "Strong stakeholder management",
+        "Leadership and influence without authority",
+        "Problem-solving and critical thinking",
+        "User empathy and customer focus",
+        "Cross-functional collaboration"
+      ]
+    },
+    "compensation": {
+      "salary_range": "$160,000 - $190,000",
+      "equity": "0.15% - 0.25% stock options",
+      "bonus": "Up to 20% annual performance bonus"
+    },
+    "benefits": [
+      "Comprehensive health, dental, and vision insurance (100% coverage for employees)",
+      "Unlimited PTO policy",
+      "401(k) with 4% company match",
+      "$3,000 annual professional development budget",
+      "Flexible remote work policy",
+      "$1,000 home office setup stipend",
+      "16 weeks parental leave",
+      "Mental health and wellness programs",
+      "Quarterly team offsites and events",
+      "Latest MacBook Pro and equipment"
+    ],
+    "application_process": {
+      "how_to_apply": "Please submit your resume, a cover letter explaining your interest in Acme Technologies, and a brief write-up describing a product you've shipped and the impact it had.",
+      "equal_opportunity": "We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+      "accommodations": "If you need accommodations during the application process, please let us know."
+    }
+  },
+  "hiring_plan": {
+    "metadata": {
+      "generated_date": "2025-11-05T19:51:21.044563",
+      "role": "Senior Product Manager",
+      "company": "Acme Technologies",
+      "target_headcount": 1,
+      "urgency": "medium"
+    },
+    "hiring_strategy": {
+      "overview": "This hiring plan outlines the strategy for hiring 1 Senior Product Manager(s).\nThe plan focuses on attracting top talent through a multi-channel sourcing approach, rigorous\nevaluation process, and competitive compensation packages.",
+      "key_priorities": [
+        "Balance speed with quality of hire",
+        "Build diverse candidate pipeline",
+        "Maintain positive candidate experience",
+        "Leverage multiple sourcing channels"
+      ],
+      "target_candidate_profile": {
+        "background": [
+          "Senior PMs from top tech companies or successful startups",
+          "Candidates with experience scaling products",
+          "Track record of driving significant business impact",
+          "Experience mentoring junior PMs"
+        ],
+        "experience": [
+          "6-9 years in product management",
+          "Led product strategy for major product lines",
+          "Experience with P&L ownership",
+          "Built and managed product teams"
+        ],
+        "traits": [
+          "Visionary leader",
+          "Exceptional strategic thinking",
+          "Strong executive communication",
+          "Proven people development skills",
+          "Bias for action"
+        ]
+      },
+      "competitive_positioning": {
+        "value_proposition": [
+          "Opportunity to make significant impact on product direction",
+          "Work with cutting-edge technology and talented team",
+          "Strong learning and growth opportunities",
+          "Competitive compensation and equity package",
+          "Flexible work environment and strong culture"
+        ],
+        "differentiators": [
+          "Work on products used by Fortune 500 companies",
+          "High-growth startup with proven product-market fit",
+          "Strong engineering culture with latest technologies",
+          "Direct access to leadership and ability to shape company direction",
+          "Competitive compensation with significant equity upside"
+        ],
+        "competing_with": [
+          "Large tech companies (FAANG)",
+          "Well-funded startups in similar space",
+          "Consulting firms",
+          "Other fast-growing tech companies"
+        ]
+      },
+      "diversity_and_inclusion": {
+        "goals": [
+          "Build diverse interview panel representing different backgrounds",
+          "Source from diverse talent pools and communities",
+          "Remove bias from job descriptions and screening process",
+          "Track diversity metrics throughout hiring funnel",
+          "Partner with organizations supporting underrepresented groups in tech"
+        ],
+        "targets": "Aim for 50% diverse candidate slate at each interview stage"
+      }
+    },
+    "sourcing_plan": {
+      "channels": [
+        {
+          "name": "Employee Referrals",
+          "priority": "High",
+          "expected_percentage": "30%",
+          "activities": [
+            "Launch internal referral campaign with incentives",
+            "Brief team on ideal candidate profile",
+            "Provide easy referral submission process",
+            "Track and acknowledge all referrals within 48 hours"
+          ]
+        },
+        {
+          "name": "Direct Sourcing/Outreach",
+          "priority": "High",
+          "expected_percentage": "25%",
+          "activities": [
+            "LinkedIn Recruiter searches with targeted criteria",
+            "Engage passive candidates with personalized messages",
+            "Leverage GitHub, ProductHunt, and Medium for active PMs",
+            "Attend industry events and conferences"
+          ]
+        },
+        {
+          "name": "Job Boards",
+          "priority": "Medium",
+          "expected_percentage": "20%",
+          "activities": [
+            "Post on LinkedIn, Indeed, Glassdoor",
+            "Use specialized boards: AngelList, ProductHQ, MindTheProduct",
+            "Optimize job postings for SEO and discoverability",
+            "Monitor and respond to applications within 24 hours"
+          ]
+        },
+        {
+          "name": "Recruiting Agencies",
+          "priority": "Low",
+          "expected_percentage": "15%",
+          "activities": [
+            "Partner with 2-3 specialized PM recruiting firms",
+            "Provide detailed candidate profile and expectations",
+            "Set clear SLAs for candidate submission and feedback",
+            "Review agency performance monthly"
+          ]
+        },
+        {
+          "name": "PM Communities",
+          "priority": "Medium",
+          "expected_percentage": "10%",
+          "activities": [
+            "Engage with PM Slack groups and forums",
+            "Sponsor/speak at PM meetups and events",
+            "Create valuable content to attract candidates",
+            "Build relationships with PM influencers"
+          ]
+        }
+      ],
+      "pipeline_goals": {
+        "sourced_candidates": 100,
+        "screening_calls": 40,
+        "first_round_interviews": 20,
+        "final_round_interviews": 8,
+        "offers_extended": 2,
+        "target_hires": 1
+      },
+      "timeline": "10 weeks"
+    },
+    "budget": {
+      "recruiting_costs": {
+        "job_board_postings": "$2,000",
+        "recruiting_agency_fees": "$15,000 (if used, 20-25% of first year salary)",
+        "employee_referral_bonuses": "$2,500",
+        "recruiting_software": "$500/month",
+        "events_and_networking": "$1,000",
+        "total_recruiting": "$20,500"
+      },
+      "compensation_budget": {
+        "annual_salary_range": "$160,000 - $190,000",
+        "equity_value": "0.15% - 0.25% stock options",
+        "signing_bonus": "Up to 15% of base salary",
+        "relocation": "Up to $10,000 if applicable"
+      },
+      "onboarding_costs": {
+        "equipment_and_setup": "$3,000",
+        "training_and_development": "$2,000",
+        "total_onboarding": "$5,000"
+      }
+    },
+    "team_structure": {
+      "hiring_manager": {
+        "role": "VP of Product",
+        "responsibilities": [
+          "Define role requirements and ideal candidate profile",
+          "Review all candidates before final rounds",
+          "Conduct final interviews",
+          "Make hiring decisions and extend offers",
+          "Participate in sourcing and outreach for senior roles"
+        ]
+      },
+      "recruiter": {
+        "role": "Internal Recruiter or Agency Partner",
+        "responsibilities": [
+          "Manage sourcing and candidate pipeline",
+          "Conduct initial screening calls",
+          "Coordinate interview scheduling",
+          "Communicate with candidates throughout process",
+          "Track metrics and provide weekly updates"
+        ]
+      },
+      "interview_panel": {
+        "composition": [
+          "1-2 Product Managers (peer level)",
+          "1-2 Engineering Leads/Managers",
+          "1 Designer or UX Lead",
+          "1 Cross-functional partner (Marketing, Sales, or Data)",
+          "1 Executive stakeholder"
+        ],
+        "responsibilities": [
+          "Conduct structured interviews using rubrics",
+          "Provide timely feedback within 24 hours",
+          "Participate in debrief sessions",
+          "Help with candidate engagement and selling"
+        ]
+      },
+      "recruiting_coordinator": {
+        "role": "Recruiting Coordinator or Executive Assistant",
+        "responsibilities": [
+          "Schedule all interviews",
+          "Send preparation materials to candidates",
+          "Coordinate logistics for on-site/virtual interviews",
+          "Collect interview feedback",
+          "Support offer process"
+        ]
+      }
+    },
+    "success_metrics": {
+      "efficiency_metrics": {
+        "time_to_hire": "Target: <60 days from job posting to offer acceptance",
+        "time_to_fill": "Target: <90 days from requisition approval to start date",
+        "cost_per_hire": "Target: <$20,000 per hire",
+        "offer_acceptance_rate": "Target: >80%"
+      },
+      "quality_metrics": {
+        "quality_of_hire": "Measured by 90-day performance review score (target: 4.0+/5.0)",
+        "hiring_manager_satisfaction": "Target: 4.5+/5.0 satisfaction score",
+        "new_hire_retention": "Target: >90% retention at 12 months",
+        "cultural_fit": "Measured in performance reviews and 360 feedback"
+      },
+      "pipeline_metrics": {
+        "candidate_pipeline_health": "Maintain 3:1 ratio of candidates to open roles",
+        "source_effectiveness": "Track conversion rate by source channel",
+        "diversity_metrics": "Track diversity at each stage of funnel",
+        "candidate_experience": "Target: 4.0+/5.0 candidate satisfaction score"
+      },
+      "reporting_cadence": {
+        "weekly": "Pipeline status, candidate flow, upcoming interviews",
+        "bi_weekly": "Detailed funnel metrics and source analysis",
+        "monthly": "Full metrics dashboard and strategy review"
+      }
+    },
+    "risks_and_mitigations": [
+      {
+        "risk": "Competitive market for PM talent",
+        "impact": "High",
+        "mitigation": "Develop strong employer brand, competitive compensation, fast decision-making process, and compelling growth opportunities"
+      },
+      {
+        "risk": "Extended time to hire leads to losing candidates",
+        "impact": "High",
+        "mitigation": "Streamline interview process, set clear timelines, maintain regular candidate communication, expedite internal approvals"
+      },
+      {
+        "risk": "Insufficient candidate pipeline",
+        "impact": "High",
+        "mitigation": "Multi-channel sourcing approach, build talent community, start sourcing before opening is approved, leverage employee networks"
+      },
+      {
+        "risk": "Poor candidate experience damages employer brand",
+        "impact": "Medium",
+        "mitigation": "Timely communication, respectful interview process, gather and act on candidate feedback, personalized interactions"
+      },
+      {
+        "risk": "Interview panel availability constraints",
+        "impact": "Medium",
+        "mitigation": "Block recurring interview time slots, train backup interviewers, use asynchronous assessment tools where appropriate"
+      },
+      {
+        "risk": "Mis-hire due to rushed process",
+        "impact": "High",
+        "mitigation": "Maintain interview standards regardless of urgency, use structured interviews and rubrics, involve multiple interviewers"
+      },
+      {
+        "risk": "Offer rejections due to compensation",
+        "impact": "Medium",
+        "mitigation": "Research market rates, understand candidate expectations early, have flexibility in comp structure, highlight total comp package"
+      },
+      {
+        "risk": "Limited pool of qualified senior candidates",
+        "impact": "High",
+        "mitigation": "Start outreach to passive candidates early, consider candidates from adjacent industries, build relationships over time"
+      }
+    ]
+  },
+  "interview_rubric": {
+    "metadata": {
+      "generated_date": "2025-11-05T19:51:21.044624",
+      "role": "Senior Product Manager",
+      "company": "Acme Technologies",
+      "experience_level": "Senior",
+      "total_interview_time": "5-6 hours"
+    },
+    "interview_process_overview": {
+      "total_stages": "6-7 stages",
+      "typical_duration": "3-4 weeks from first contact to offer",
+      "decision_criteria": "Must receive strong \"hire\" recommendation from majority of interviewers, with no strong \"no hire\" signals",
+      "process_principles": [
+        "Structured and consistent evaluation across all candidates",
+        "Multiple perspectives from cross-functional team members",
+        "Balance of different competency areas",
+        "Focus on predictive indicators of success",
+        "Fair and unbiased assessment",
+        "Positive candidate experience throughout"
+      ]
+    },
+    "interview_stages": [
+      {
+        "stage_name": "Recruiter Screening",
+        "stage_number": 1,
+        "duration": "30 minutes",
+        "interviewer": "Recruiter",
+        "format": "Phone or Video Call",
+        "objectives": [
+          "Assess basic qualifications and experience",
+          "Evaluate communication skills",
+          "Gauge interest and motivation",
+          "Provide role and company overview",
+          "Discuss compensation expectations"
+        ],
+        "key_questions": [
+          "Walk me through your PM experience and key accomplishments",
+          "What interests you about this role and our company?",
+          "Describe your experience with product roadmap development",
+          "Tell me about your experience working with engineering teams",
+          "What are your salary expectations?",
+          "What is your timeline and are you interviewing elsewhere?"
+        ],
+        "evaluation_criteria": [
+          {
+            "criterion": "Relevant Experience",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Has required years of PM experience",
+              "Experience aligns with role requirements",
+              "Relevant product or industry background",
+              "Clear career progression"
+            ]
+          },
+          {
+            "criterion": "Communication",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Articulates thoughts clearly and concisely",
+              "Answers questions directly",
+              "Professional and engaging manner",
+              "Good listening skills"
+            ]
+          },
+          {
+            "criterion": "Motivation",
+            "weight": "Medium",
+            "signals_to_look_for": [
+              "Genuine interest in role and company",
+              "Has done research on the company",
+              "Career goals align with opportunity",
+              "Enthusiastic and positive attitude"
+            ]
+          }
+        ],
+        "red_flags": [
+          "Cannot articulate clear PM experience",
+          "Poor communication or unprepared",
+          "Compensation expectations significantly misaligned",
+          "Negative comments about previous employers",
+          "Lacks basic knowledge about the company"
+        ],
+        "next_steps": "If positive, advance to product sense interview"
+      },
+      {
+        "stage_name": "Product Sense & Strategy",
+        "stage_number": 2,
+        "duration": "60 minutes",
+        "interviewer": "Senior PM or Product Leader",
+        "format": "Video Call or In-Person",
+        "objectives": [
+          "Assess product thinking and intuition",
+          "Evaluate strategic thinking ability",
+          "Test user empathy and customer focus",
+          "Assess creativity and problem-solving",
+          "Evaluate product taste and judgment"
+        ],
+        "key_questions": [
+          "Describe your product vision for [our product category]. How would you differentiate from competitors?",
+          "Walk me through how you would build a product strategy for entering [new market]",
+          "Tell me about a time you had to pivot product direction. How did you decide?",
+          "How do you balance short-term wins with long-term product vision?",
+          "Design the next generation of [product category]. What would you build and why?"
+        ],
+        "evaluation_criteria": [
+          {
+            "criterion": "Product Intuition",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Demonstrates strong understanding of user needs",
+              "Asks clarifying questions about users and context",
+              "Considers multiple perspectives (user, business, technical)",
+              "Shows creativity in solution generation",
+              "Articulates clear product vision"
+            ]
+          },
+          {
+            "criterion": "Strategic Thinking",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Thinks about market positioning and competition",
+              "Considers business model and monetization",
+              "Connects product decisions to business outcomes",
+              "Shows ability to prioritize ruthlessly",
+              "Demonstrates long-term thinking"
+            ]
+          },
+          {
+            "criterion": "Structured Problem Solving",
+            "weight": "Medium",
+            "signals_to_look_for": [
+              "Uses frameworks to organize thinking",
+              "Breaks down complex problems systematically",
+              "Makes reasonable assumptions",
+              "Identifies trade-offs clearly",
+              "Reaches conclusions logically"
+            ]
+          }
+        ],
+        "scoring_dimensions": {
+          "User Understanding": "How well does candidate understand user needs and pain points?",
+          "Product Vision": "Can they articulate a compelling product direction?",
+          "Strategic Thinking": "Do they connect product decisions to business strategy?",
+          "Creativity": "Do they generate novel and valuable ideas?",
+          "Trade-off Analysis": "Can they evaluate options and make decisions?"
+        },
+        "what_great_looks_like": [
+          "Asks insightful questions to understand context",
+          "Demonstrates deep empathy for users",
+          "Proposes creative yet practical solutions",
+          "Considers multiple dimensions (user, business, technical)",
+          "Articulates clear reasoning for decisions",
+          "Shows passion for products and problem-solving"
+        ],
+        "red_flags": [
+          "Jumps to solutions without understanding problem",
+          "Focuses only on features without considering outcomes",
+          "Cannot explain reasoning behind decisions",
+          "Lacks creativity or only proposes obvious ideas",
+          "Does not consider business viability"
+        ]
+      },
+      {
+        "stage_name": "Execution & Analytics",
+        "stage_number": 3,
+        "duration": "60 minutes",
+        "interviewer": "PM or Engineering Manager",
+        "format": "Video Call or In-Person",
+        "objectives": [
+          "Assess ability to ship products on time",
+          "Evaluate data-driven decision making",
+          "Test project management and organizational skills",
+          "Assess stakeholder management abilities",
+          "Evaluate metrics and analytics knowledge"
+        ],
+        "key_questions": [
+          "Describe your approach to building and managing a product roadmap",
+          "Tell me about a time you had to coordinate a complex, cross-functional initiative",
+          "How do you balance multiple competing priorities from different stakeholders?",
+          "Walk me through how you use data to make product decisions",
+          "Describe your experience with A/B testing and experimentation"
+        ],
+        "evaluation_criteria": [
+          {
+            "criterion": "Execution Excellence",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Track record of shipping products on time",
+              "Strong project management skills",
+              "Ability to break down complex projects",
+              "Experience with agile/scrum methodologies",
+              "Handles ambiguity well"
+            ]
+          },
+          {
+            "criterion": "Data & Analytics",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Defines clear success metrics",
+              "Uses data to inform decisions",
+              "Understands basic statistics and A/B testing",
+              "Can interpret data and draw insights",
+              "Balances quantitative and qualitative data"
+            ]
+          },
+          {
+            "criterion": "Stakeholder Management",
+            "weight": "Medium",
+            "signals_to_look_for": [
+              "Communicates effectively with different audiences",
+              "Manages expectations well",
+              "Builds consensus across teams",
+              "Handles disagreements constructively",
+              "Keeps stakeholders informed"
+            ]
+          }
+        ],
+        "scoring_dimensions": {
+          "Shipping Track Record": "Do they have a history of delivering results?",
+          "Analytical Thinking": "Can they define and use metrics effectively?",
+          "Process & Organization": "Are they structured and organized in their approach?",
+          "Cross-functional Collaboration": "Can they work effectively with different teams?",
+          "Bias for Action": "Do they move quickly and decisively?"
+        },
+        "red_flags": [
+          "Cannot provide examples of shipped products",
+          "Vague or no understanding of metrics",
+          "Poor project management skills",
+          "Blames others for failures",
+          "Lacks attention to detail"
+        ]
+      },
+      {
+        "stage_name": "Technical Understanding",
+        "stage_number": 4,
+        "duration": "45-60 minutes",
+        "interviewer": "Engineering Lead or Technical PM",
+        "format": "Video Call or In-Person",
+        "objectives": [
+          "Assess technical depth and credibility",
+          "Evaluate ability to work with engineers",
+          "Test understanding of system design concepts",
+          "Assess API and data model understanding",
+          "Evaluate technical decision-making"
+        ],
+        "key_questions": [
+          "Explain the technical architecture of a product you've worked on",
+          "How do you make technical trade-off decisions?",
+          "Design the technical architecture for [product/feature]",
+          "How would you explain [technical concept] to a non-technical stakeholder?",
+          "Tell me about a time you had a technical disagreement with engineering. How did you handle it?",
+          "What questions do you ask engineers when scoping a new feature?",
+          "How do you evaluate technical debt vs. new features?"
+        ],
+        "evaluation_criteria": [
+          {
+            "criterion": "Technical Depth",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Understands technical concepts relevant to role",
+              "Can discuss system architecture intelligently",
+              "Knows enough to make informed decisions",
+              "Asks good technical questions",
+              "Credible with engineering teams"
+            ]
+          },
+          {
+            "criterion": "Engineering Collaboration",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Speaks engineers' language",
+              "Respects technical constraints",
+              "Balances ideal vs. practical solutions",
+              "Builds trust with technical teams",
+              "Values engineering input"
+            ]
+          },
+          {
+            "criterion": "Technical Decision Making",
+            "weight": "Medium",
+            "signals_to_look_for": [
+              "Makes informed technical trade-offs",
+              "Considers scalability and maintainability",
+              "Understands technical debt",
+              "Can evaluate build vs. buy decisions",
+              "Balances speed with quality"
+            ]
+          }
+        ],
+        "note": "Technical bar should be appropriate for experience level - not expecting engineers, but need to be credible technical partner",
+        "red_flags": [
+          "No understanding of basic technical concepts",
+          "Cannot explain technical aspects of previous work",
+          "Dismissive of technical constraints",
+          "Poor relationship with engineering teams",
+          "Makes unrealistic technical assumptions"
+        ]
+      },
+      {
+        "stage_name": "Leadership & Influence",
+        "stage_number": 5,
+        "duration": "60 minutes",
+        "interviewer": "Product Leader or Cross-functional Executive",
+        "format": "Video Call or In-Person",
+        "objectives": [
+          "Assess leadership style and effectiveness",
+          "Evaluate ability to influence without authority",
+          "Test mentorship and people development skills",
+          "Assess strategic influence at senior levels",
+          "Evaluate change management abilities"
+        ],
+        "key_questions": [
+          "Tell me about your leadership philosophy",
+          "Describe a time you had to influence a decision without having authority",
+          "How do you develop and mentor other PMs?",
+          "Tell me about a time you led a major organizational change",
+          "How do you build alignment across senior leadership?",
+          "Describe a situation where you had to make an unpopular decision",
+          "How do you create a culture of excellence in product management?",
+          "Tell me about a time you had to course-correct a team or project"
+        ],
+        "evaluation_criteria": [
+          {
+            "criterion": "Leadership Impact",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Clear leadership philosophy and examples",
+              "Drives results through others",
+              "Inspires and motivates teams",
+              "Takes ownership and accountability",
+              "Leads through ambiguity"
+            ]
+          },
+          {
+            "criterion": "Influence & Communication",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Influences across all levels",
+              "Builds coalition and consensus",
+              "Excellent executive communication",
+              "Handles conflict constructively",
+              "Persuasive and compelling"
+            ]
+          },
+          {
+            "criterion": "People Development",
+            "weight": "Medium",
+            "signals_to_look_for": [
+              "Invests in developing others",
+              "Provides effective feedback",
+              "Creates growth opportunities",
+              "Builds high-performing teams",
+              "Attracts and retains talent"
+            ]
+          }
+        ],
+        "scoring_dimensions": {
+          "Leadership Style": "Do they demonstrate effective leadership?",
+          "Influence": "Can they drive decisions across the organization?",
+          "Strategic Impact": "Do they operate at the right level of strategy?",
+          "People Development": "Do they grow and develop others?",
+          "Change Leadership": "Can they lead through transformation?"
+        },
+        "red_flags": [
+          "No examples of leadership or influence",
+          "Weak executive presence",
+          "Cannot articulate leadership philosophy",
+          "Does not invest in people development",
+          "Avoids conflict or difficult conversations"
+        ]
+      },
+      {
+        "stage_name": "Behavioral & Cultural Fit",
+        "stage_number": 6,
+        "duration": "45 minutes",
+        "interviewer": "Cross-functional Partner (Design, Marketing, Sales, Data)",
+        "format": "Video Call or In-Person",
+        "objectives": [
+          "Assess alignment with company values",
+          "Evaluate collaboration style",
+          "Test self-awareness and growth mindset",
+          "Assess resilience and adaptability",
+          "Evaluate culture add (not just fit)"
+        ],
+        "key_questions": [
+          "Tell me about a time you failed. What did you learn?",
+          "Describe a situation where you had conflict with a colleague. How did you resolve it?",
+          "Tell me about a time you had to adapt to significant change",
+          "Describe your ideal work environment and team culture",
+          "What are you passionate about outside of work?",
+          "Tell me about a time you gave difficult feedback to someone",
+          "Describe a situation where you had to work with someone very different from you",
+          "What does diversity and inclusion mean to you in practice?",
+          "Tell me about a time you went above and beyond",
+          "What are you looking for in your next role and why?"
+        ],
+        "evaluation_criteria": [
+          {
+            "criterion": "Values Alignment",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Demonstrates company values in examples",
+              "Genuine alignment with mission",
+              "Will thrive in company culture",
+              "Adds to culture positively",
+              "Shares team working style"
+            ]
+          },
+          {
+            "criterion": "Growth Mindset",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Learns from failures and mistakes",
+              "Seeks feedback actively",
+              "Self-aware about strengths and weaknesses",
+              "Continuously improving",
+              "Embraces challenges"
+            ]
+          },
+          {
+            "criterion": "Collaboration",
+            "weight": "Medium",
+            "signals_to_look_for": [
+              "Works well with different personalities",
+              "Values diverse perspectives",
+              "Resolves conflicts constructively",
+              "Builds strong relationships",
+              "Team player mentality"
+            ]
+          }
+        ],
+        "scoring_dimensions": {
+          "Cultural Alignment": "Will they thrive in our culture?",
+          "Values Match": "Do they demonstrate our core values?",
+          "Growth Mindset": "Do they learn and adapt?",
+          "Collaboration Style": "Will they work well with the team?",
+          "Motivation": "Are they motivated by the right things?"
+        },
+        "red_flags": [
+          "Blames others consistently",
+          "Not self-aware",
+          "Poor attitude or negative energy",
+          "Misalignment with core values",
+          "Red flags in reference checks"
+        ]
+      },
+      {
+        "stage_name": "Final Round - Executive Interview",
+        "stage_number": 7,
+        "duration": "45-60 minutes",
+        "interviewer": "CEO or CPO",
+        "format": "Video Call or In-Person",
+        "objectives": [
+          "Final assessment of candidate fit",
+          "Evaluate strategic thinking at highest level",
+          "Executive-level sell of role and company",
+          "Address any remaining concerns",
+          "Assess culture and values match"
+        ],
+        "key_questions": [
+          "Why are you interested in this role and our company?",
+          "Where do you see yourself in 3-5 years?",
+          "What do you think our biggest product challenges are?",
+          "How would you approach your first 90 days?",
+          "What questions do you have for me?",
+          "What would make you excited to join our company?",
+          "Tell me about the most impactful thing you've done in your career",
+          "What's your take on [industry trend or company strategic direction]?"
+        ],
+        "evaluation_criteria": [
+          {
+            "criterion": "Strategic Caliber",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Thinks at appropriate strategic level",
+              "Understands market and industry dynamics",
+              "Asks insightful questions",
+              "Demonstrates business acumen",
+              "Has informed perspective on company direction"
+            ]
+          },
+          {
+            "criterion": "Motivation & Fit",
+            "weight": "High",
+            "signals_to_look_for": [
+              "Genuinely excited about company and role",
+              "Clear alignment with mission and values",
+              "Will stay and grow with company",
+              "Positive energy and culture add",
+              "Mutual excitement"
+            ]
+          }
+        ],
+        "interviewer_focus": [
+          "Make final hire/no-hire decision",
+          "Sell candidate on opportunity and vision",
+          "Address any concerns or questions",
+          "Assess executive presence and communication",
+          "Evaluate long-term potential"
+        ],
+        "red_flags": [
+          "Not well prepared or knowledgeable about company",
+          "Lack of strategic thinking",
+          "Poor executive communication",
+          "Not genuinely interested",
+          "Misalignment on vision or values"
+        ]
+      }
+    ],
+    "evaluation_framework": {
+      "rating_scale": {
+        "Strong Hire": "Exceptional candidate. Top 5% of candidates. Multiple areas of excellence. No significant weaknesses.",
+        "Hire": "Strong candidate. Meets all requirements with some areas of strength. Minor weaknesses that are not deal-breakers.",
+        "Maybe": "Borderline candidate. Mixed signals. Has strengths but also concerns. Needs discussion.",
+        "No Hire": "Does not meet bar. Significant gaps or concerns. Would not be successful in role."
+      },
+      "decision_making": {
+        "hiring_decision": "Must have majority \"Hire\" or \"Strong Hire\" ratings across all interviewers",
+        "veto_power": "Any \"Strong No Hire\" from an interviewer triggers team discussion",
+        "debrief_process": "Hold structured debrief with all interviewers before making decision",
+        "timeline": "Make decision within 48 hours of final interview"
+      },
+      "key_competencies": [
+        {
+          "competency": "Product Sense",
+          "weight": "Critical",
+          "evaluated_in": "Product Sense interview"
+        },
+        {
+          "competency": "Execution",
+          "weight": "Critical",
+          "evaluated_in": "Execution & Analytics interview"
+        },
+        {
+          "competency": "Technical Acumen",
+          "weight": "Important",
+          "evaluated_in": "Technical Understanding interview"
+        },
+        {
+          "competency": "Leadership & Influence",
+          "weight": "Important (Critical for Senior+)",
+          "evaluated_in": "Leadership interview"
+        },
+        {
+          "competency": "Communication",
+          "weight": "Important",
+          "evaluated_in": "All interviews"
+        },
+        {
+          "competency": "Cultural Fit",
+          "weight": "Important",
+          "evaluated_in": "Behavioral interview"
+        },
+        {
+          "competency": "Strategic Thinking",
+          "weight": "Critical for Senior+",
+          "evaluated_in": "Product Sense and Final interviews"
+        }
+      ]
+    },
+    "scoring_guide": {
+      "how_to_score": [
+        "Evaluate each criterion independently",
+        "Use specific examples and evidence",
+        "Compare to bar for the role level",
+        "Consider both what they did and how they did it",
+        "Be calibrated with other interviewers"
+      ],
+      "writing_feedback": [
+        "Provide specific examples to support rating",
+        "Include both strengths and areas of concern",
+        "Note any red flags or exceptional signals",
+        "Be objective and professional",
+        "Submit feedback within 24 hours"
+      ],
+      "avoiding_bias": [
+        "Use structured questions and rubric",
+        "Focus on job-relevant criteria only",
+        "Be aware of affinity bias",
+        "Don't compare to yourself",
+        "Evaluate candidate against role requirements, not other candidates"
+      ],
+      "calibration": [
+        "Attend interviewer training and calibration sessions",
+        "Review examples of strong vs. weak answers",
+        "Discuss borderline cases with team",
+        "Maintain consistency across candidates"
+      ]
+    },
+    "interviewer_training": {
+      "before_interview": [
+        "Review candidate resume and application",
+        "Read feedback from previous interview rounds",
+        "Prepare your questions using the rubric",
+        "Set up quiet, professional environment",
+        "Allocate full time without interruptions"
+      ],
+      "during_interview": [
+        "Start with warm welcome and role overview",
+        "Follow structured question guide",
+        "Take detailed notes on responses",
+        "Probe for specific examples using STAR method",
+        "Leave time for candidate questions (10-15 minutes)",
+        "Close by explaining next steps"
+      ],
+      "after_interview": [
+        "Write detailed feedback within 24 hours",
+        "Include specific examples for your rating",
+        "Submit feedback before seeing others' input",
+        "Be available for debrief discussion",
+        "Provide timely response to recruiting team"
+      ],
+      "star_method": {
+        "description": "Framework for evaluating behavioral responses",
+        "situation": "What was the context?",
+        "task": "What needed to be done?",
+        "action": "What did the candidate specifically do?",
+        "result": "What was the outcome? What was learned?"
+      },
+      "interview_best_practices": [
+        "Be on time and prepared",
+        "Create welcoming environment",
+        "Listen more than you talk (80/20 rule)",
+        "Don't lead the witness - ask open-ended questions",
+        "Follow up with probing questions",
+        "Take detailed notes",
+        "Be aware of your biases",
+        "Provide positive candidate experience regardless of outcome"
+      ]
+    },
+    "candidate_experience_guidelines": {
+      "principles": [
+        "Treat every candidate with respect and professionalism",
+        "Communicate clearly and timely at every stage",
+        "Make the process efficient and organized",
+        "Provide transparency about process and timeline",
+        "Give candidate opportunity to put their best foot forward",
+        "Provide closure and feedback when appropriate"
+      ],
+      "communication_timeline": {
+        "application_received": "Acknowledge within 48 hours",
+        "after_screening": "Decision within 2-3 business days",
+        "between_interviews": "Update within 3 business days",
+        "after_final_interview": "Decision within 48 hours",
+        "offer_extended": "Follow up daily until decision"
+      },
+      "candidate_preparation": {
+        "before_each_interview": [
+          "Send calendar invite with video link or location",
+          "Provide interviewer name, title, and LinkedIn",
+          "Share what to expect in the interview",
+          "Send any prep materials or case studies in advance",
+          "Provide contact for questions"
+        ],
+        "materials_to_share": [
+          "Overview of interview process and timeline",
+          "Information about the team and role",
+          "Company values and culture deck",
+          "Recent news or blog posts about company"
+        ]
+      },
+      "making_it_positive": [
+        "Be warm and welcoming",
+        "Show genuine interest in candidate",
+        "Sell the role and company",
+        "Answer questions thoroughly",
+        "Be respectful of their time",
+        "Provide clear next steps",
+        "Send thank you note after interview"
+      ]
+    }
+  },
+  "timeline": {
+    "metadata": {
+      "generated_date": "2025-11-05T19:51:21.044693",
+      "role": "Senior Product Manager",
+      "company": "Acme Technologies",
+      "start_date": "2025-11-05",
+      "estimated_duration_weeks": 10,
+      "target_hire_date": "2026-01-14"
+    },
+    "phases": [
+      {
+        "phase_number": 1,
+        "phase_name": "Preparation & Setup",
+        "start_date": "2025-11-05",
+        "end_date": "2025-11-12",
+        "duration": "1 week",
+        "objectives": [
+          "Finalize job description and requirements",
+          "Set up interview process and rubrics",
+          "Brief hiring team and interviewers",
+          "Set up job postings and sourcing channels",
+          "Prepare recruiting materials"
+        ],
+        "deliverables": [
+          "Approved job description",
+          "Interview rubrics and questions",
+          "Trained interview panel",
+          "Active job postings",
+          "Sourcing campaign launched"
+        ],
+        "success_criteria": "Ready to begin active sourcing and screening"
+      },
+      {
+        "phase_number": 2,
+        "phase_name": "Sourcing & Initial Screening",
+        "start_date": "2025-11-12",
+        "end_date": "2025-12-03",
+        "duration": "3 weeks",
+        "objectives": [
+          "Build strong candidate pipeline",
+          "Conduct recruiter screening calls",
+          "Identify top candidates for interviews",
+          "Engage passive candidates",
+          "Maintain candidate pipeline"
+        ],
+        "deliverables": [
+          "Sourced 100 candidates",
+          "Completed 40 screening calls",
+          "Advanced 20 candidates to first round",
+          "Pipeline dashboard updated weekly"
+        ],
+        "success_criteria": "Strong pipeline of qualified candidates ready for interviews"
+      },
+      {
+        "phase_number": 3,
+        "phase_name": "First Round Interviews",
+        "start_date": "2025-11-19",
+        "end_date": "2025-12-17",
+        "duration": "4 weeks",
+        "objectives": [
+          "Conduct product sense interviews",
+          "Conduct execution interviews",
+          "Assess technical understanding",
+          "Evaluate culture fit",
+          "Identify finalists"
+        ],
+        "deliverables": [
+          "All first round interviews completed",
+          "Interview feedback submitted",
+          "8 finalists identified",
+          "Debrief sessions held"
+        ],
+        "success_criteria": "Strong finalist slate advanced to final rounds"
+      },
+      {
+        "phase_number": 4,
+        "phase_name": "Final Round Interviews",
+        "start_date": "2025-12-17",
+        "end_date": "2025-12-31",
+        "duration": "2 weeks",
+        "objectives": [
+          "Conduct leadership/senior stakeholder interviews",
+          "Complete reference checks",
+          "Hold team debrief and make decisions",
+          "Prepare offer packages",
+          "Address any remaining questions"
+        ],
+        "deliverables": [
+          "All final interviews completed",
+          "Reference checks completed",
+          "Hiring decisions made",
+          "Offer packages prepared",
+          "Offer approval obtained"
+        ],
+        "success_criteria": "Ready to extend offers to top candidate(s)"
+      },
+      {
+        "phase_number": 5,
+        "phase_name": "Offer & Close",
+        "start_date": "2025-12-31",
+        "end_date": "2026-01-14",
+        "duration": "2 weeks",
+        "objectives": [
+          "Extend offers to top candidates",
+          "Negotiate and finalize offer terms",
+          "Obtain offer acceptance",
+          "Begin onboarding preparation",
+          "Close out search"
+        ],
+        "deliverables": [
+          "Offers extended",
+          "Offer accepted",
+          "Background check completed",
+          "Start date confirmed",
+          "Onboarding plan ready"
+        ],
+        "success_criteria": "Offer accepted and candidate ready to start"
+      }
+    ],
+    "milestones": [
+      {
+        "milestone": "Job Posting Live",
+        "target_date": "2025-11-08",
+        "description": "Job description finalized and posted on all channels",
+        "critical": true
+      },
+      {
+        "milestone": "First Candidates Screened",
+        "target_date": "2025-11-12",
+        "description": "Initial batch of recruiter screens completed",
+        "critical": false
+      },
+      {
+        "milestone": "First Round Interviews Begin",
+        "target_date": "2025-11-19",
+        "description": "First candidates move to interview stage",
+        "critical": true
+      },
+      {
+        "milestone": "Finalist Slate Identified",
+        "target_date": "2025-12-17",
+        "description": "Strong finalists identified for final rounds",
+        "critical": true
+      },
+      {
+        "milestone": "Final Interviews Complete",
+        "target_date": "2025-12-24",
+        "description": "All final interviews and reference checks done",
+        "critical": true
+      },
+      {
+        "milestone": "Offer Extended",
+        "target_date": "2025-12-31",
+        "description": "Offer extended to top candidate",
+        "critical": true
+      },
+      {
+        "milestone": "Offer Accepted",
+        "target_date": "2026-01-14",
+        "description": "Candidate accepts offer and signs paperwork",
+        "critical": true
+      }
+    ],
+    "weekly_breakdown": [
+      {
+        "week_number": 1,
+        "start_date": "2025-11-05",
+        "end_date": "2025-11-11",
+        "phase": "Preparation & Setup",
+        "key_activities": [
+          "Finalize and approve job description",
+          "Create and distribute interview rubrics",
+          "Brief hiring team and train interviewers",
+          "Post job on LinkedIn, company site, and job boards",
+          "Launch referral campaign internally",
+          "Begin direct sourcing and outreach",
+          "Set up applicant tracking workflow"
+        ],
+        "metrics_to_track": [
+          "Job postings live (target: all channels)",
+          "Hiring team trained (target: 100%)",
+          "Sourcing channels activated"
+        ],
+        "who_involved": [
+          "Hiring Manager",
+          "Recruiter",
+          "HR/People Ops",
+          "Interview Panel"
+        ]
+      },
+      {
+        "week_number": 2,
+        "start_date": "2025-11-12",
+        "end_date": "2025-11-18",
+        "phase": "Sourcing & Initial Screening",
+        "key_activities": [
+          "Continue sourcing candidates via multiple channels",
+          "Review incoming applications daily",
+          "Conduct 8-12 recruiter screening calls",
+          "Update candidate pipeline dashboard",
+          "Engage with employee referrals",
+          "Post in PM communities and networks",
+          "Identify candidates for first round interviews"
+        ],
+        "metrics_to_track": [
+          "Applications received (target: 20+ per week)",
+          "Screening calls completed (target: 8-12 per week)",
+          "Screen-to-interview conversion rate (target: 50%)",
+          "Pipeline health: ratio of candidates to roles"
+        ],
+        "who_involved": [
+          "Recruiter (primary)",
+          "Hiring Manager",
+          "Recruiting Coordinator"
+        ]
+      },
+      {
+        "week_number": 3,
+        "start_date": "2025-11-19",
+        "end_date": "2025-11-25",
+        "phase": "Sourcing & Initial Screening",
+        "key_activities": [
+          "Continue sourcing candidates via multiple channels",
+          "Review incoming applications daily",
+          "Conduct 8-12 recruiter screening calls",
+          "Update candidate pipeline dashboard",
+          "Engage with employee referrals",
+          "Post in PM communities and networks",
+          "Identify candidates for first round interviews"
+        ],
+        "metrics_to_track": [
+          "Applications received (target: 20+ per week)",
+          "Screening calls completed (target: 8-12 per week)",
+          "Screen-to-interview conversion rate (target: 50%)",
+          "Pipeline health: ratio of candidates to roles"
+        ],
+        "who_involved": [
+          "Recruiter (primary)",
+          "Hiring Manager",
+          "Recruiting Coordinator"
+        ]
+      },
+      {
+        "week_number": 4,
+        "start_date": "2025-11-26",
+        "end_date": "2025-12-02",
+        "phase": "First Round Interviews",
+        "key_activities": [
+          "Schedule and conduct product sense interviews",
+          "Schedule and conduct execution interviews",
+          "Schedule and conduct technical interviews",
+          "Collect and review interview feedback",
+          "Hold debrief sessions for each candidate",
+          "Continue sourcing to maintain pipeline",
+          "Identify finalists for final rounds"
+        ],
+        "metrics_to_track": [
+          "Interviews conducted (target: 5-8 per week)",
+          "Interview-to-finalist conversion (target: 40%)",
+          "Time to feedback (target: <24 hours)",
+          "Candidate satisfaction scores"
+        ],
+        "who_involved": [
+          "Product Managers",
+          "Engineering Managers",
+          "Design Leads",
+          "Recruiter",
+          "Recruiting Coordinator"
+        ]
+      },
+      {
+        "week_number": 5,
+        "start_date": "2025-12-03",
+        "end_date": "2025-12-09",
+        "phase": "First Round Interviews",
+        "key_activities": [
+          "Schedule and conduct product sense interviews",
+          "Schedule and conduct execution interviews",
+          "Schedule and conduct technical interviews",
+          "Collect and review interview feedback",
+          "Hold debrief sessions for each candidate",
+          "Continue sourcing to maintain pipeline",
+          "Identify finalists for final rounds"
+        ],
+        "metrics_to_track": [
+          "Interviews conducted (target: 5-8 per week)",
+          "Interview-to-finalist conversion (target: 40%)",
+          "Time to feedback (target: <24 hours)",
+          "Candidate satisfaction scores"
+        ],
+        "who_involved": [
+          "Product Managers",
+          "Engineering Managers",
+          "Design Leads",
+          "Recruiter",
+          "Recruiting Coordinator"
+        ]
+      },
+      {
+        "week_number": 6,
+        "start_date": "2025-12-10",
+        "end_date": "2025-12-16",
+        "phase": "First Round Interviews",
+        "key_activities": [
+          "Schedule and conduct product sense interviews",
+          "Schedule and conduct execution interviews",
+          "Schedule and conduct technical interviews",
+          "Collect and review interview feedback",
+          "Hold debrief sessions for each candidate",
+          "Continue sourcing to maintain pipeline",
+          "Identify finalists for final rounds"
+        ],
+        "metrics_to_track": [
+          "Interviews conducted (target: 5-8 per week)",
+          "Interview-to-finalist conversion (target: 40%)",
+          "Time to feedback (target: <24 hours)",
+          "Candidate satisfaction scores"
+        ],
+        "who_involved": [
+          "Product Managers",
+          "Engineering Managers",
+          "Design Leads",
+          "Recruiter",
+          "Recruiting Coordinator"
+        ]
+      },
+      {
+        "week_number": 7,
+        "start_date": "2025-12-17",
+        "end_date": "2025-12-23",
+        "phase": "First Round Interviews",
+        "key_activities": [
+          "Schedule and conduct product sense interviews",
+          "Schedule and conduct execution interviews",
+          "Schedule and conduct technical interviews",
+          "Collect and review interview feedback",
+          "Hold debrief sessions for each candidate",
+          "Continue sourcing to maintain pipeline",
+          "Identify finalists for final rounds"
+        ],
+        "metrics_to_track": [
+          "Interviews conducted (target: 5-8 per week)",
+          "Interview-to-finalist conversion (target: 40%)",
+          "Time to feedback (target: <24 hours)",
+          "Candidate satisfaction scores"
+        ],
+        "who_involved": [
+          "Product Managers",
+          "Engineering Managers",
+          "Design Leads",
+          "Recruiter",
+          "Recruiting Coordinator"
+        ]
+      },
+      {
+        "week_number": 8,
+        "start_date": "2025-12-24",
+        "end_date": "2025-12-30",
+        "phase": "Final Round Interviews",
+        "key_activities": [
+          "Schedule final round with leadership",
+          "Conduct behavioral and culture fit interviews",
+          "Complete reference checks",
+          "Hold final debrief and make decisions",
+          "Prepare offer packages and get approvals",
+          "Begin back-channel references if appropriate",
+          "Keep candidates engaged and informed"
+        ],
+        "metrics_to_track": [
+          "Final interviews completed",
+          "Reference checks completed",
+          "Offer approval status",
+          "Days to decision"
+        ],
+        "who_involved": [
+          "Hiring Manager",
+          "VP Product/CTO",
+          "Cross-functional Leaders",
+          "CEO (for senior roles)",
+          "Recruiter"
+        ]
+      },
+      {
+        "week_number": 9,
+        "start_date": "2025-12-31",
+        "end_date": "2026-01-06",
+        "phase": "Final Round Interviews",
+        "key_activities": [
+          "Schedule final round with leadership",
+          "Conduct behavioral and culture fit interviews",
+          "Complete reference checks",
+          "Hold final debrief and make decisions",
+          "Prepare offer packages and get approvals",
+          "Begin back-channel references if appropriate",
+          "Keep candidates engaged and informed"
+        ],
+        "metrics_to_track": [
+          "Final interviews completed",
+          "Reference checks completed",
+          "Offer approval status",
+          "Days to decision"
+        ],
+        "who_involved": [
+          "Hiring Manager",
+          "VP Product/CTO",
+          "Cross-functional Leaders",
+          "CEO (for senior roles)",
+          "Recruiter"
+        ]
+      },
+      {
+        "week_number": 10,
+        "start_date": "2026-01-07",
+        "end_date": "2026-01-13",
+        "phase": "Offer & Close",
+        "key_activities": [
+          "Extend offers to selected candidate(s)",
+          "Schedule offer call with hiring manager",
+          "Negotiate terms if needed",
+          "Answer candidate questions and concerns",
+          "Obtain signed offer letter",
+          "Initiate background check",
+          "Begin onboarding preparation",
+          "Communicate with other candidates"
+        ],
+        "metrics_to_track": [
+          "Offers extended",
+          "Offer acceptance rate (target: 80%+)",
+          "Days from offer to acceptance",
+          "Onboarding readiness"
+        ],
+        "who_involved": [
+          "Hiring Manager",
+          "Recruiter",
+          "HR/People Ops",
+          "Finance (for approvals)",
+          "IT (for onboarding)"
+        ]
+      }
+    ],
+    "dependencies": [
+      {
+        "task": "First Round Interviews",
+        "depends_on": "Recruiter Screening Complete",
+        "impact": "Cannot start interviews without screened candidates"
+      },
+      {
+        "task": "Final Round Interviews",
+        "depends_on": "First Round Debrief Complete",
+        "impact": "Need to identify finalists before final rounds"
+      },
+      {
+        "task": "Offer Extension",
+        "depends_on": "Reference Checks Complete",
+        "impact": "Must complete due diligence before offer"
+      },
+      {
+        "task": "Interview Scheduling",
+        "depends_on": "Panel Availability",
+        "impact": "Limited interview slots can slow process"
+      },
+      {
+        "task": "Offer Approval",
+        "depends_on": "Budget Approval & Comp Review",
+        "impact": "Cannot extend offer without approval"
+      },
+      {
+        "task": "Start Date",
+        "depends_on": "Background Check Complete",
+        "impact": "Cannot onboard until background cleared"
+      }
+    ],
+    "resource_allocation": {
+      "recruiter_time": {
+        "phase_1": "20 hours - setup and preparation",
+        "phase_2": "30-40 hours - sourcing and screening",
+        "phase_3": "20 hours - interview coordination",
+        "phase_4": "15 hours - final round coordination",
+        "phase_5": "10 hours - offer and close",
+        "total": "95-105 hours"
+      },
+      "hiring_manager_time": {
+        "phase_1": "10 hours - planning and setup",
+        "phase_2": "5 hours - pipeline review",
+        "phase_3": "20-25 hours - first round interviews",
+        "phase_4": "15-20 hours - final interviews and decisions",
+        "phase_5": "10 hours - offer and onboarding prep",
+        "total": "60-70 hours"
+      },
+      "interview_panel_time": {
+        "per_interviewer": "10-15 hours (including prep and feedback)",
+        "total_panel": "50-75 hours (5 interviewers)",
+        "note": "Stagger to avoid overwhelming individual interviewers"
+      },
+      "recruiting_coordinator_time": {
+        "total": "30-40 hours",
+        "activities": "Scheduling, logistics, candidate communication"
+      }
+    },
+    "risk_timeline": [
+      {
+        "risk": "Delayed Start",
+        "timing": "Week 1",
+        "impact": "Pushes entire timeline",
+        "mitigation": "Complete all prep work before official start date",
+        "buffer": "Build in 1 week buffer"
+      },
+      {
+        "risk": "Slow Pipeline Build",
+        "timing": "Weeks 2-3",
+        "impact": "Insufficient candidates for interviews",
+        "mitigation": "Multi-channel sourcing, start early, leverage referrals",
+        "buffer": "Target 3x pipeline coverage"
+      },
+      {
+        "risk": "Interview Scheduling Delays",
+        "timing": "Weeks 4-7",
+        "impact": "Extended time-to-hire, candidate drop-off",
+        "mitigation": "Block recurring interview slots, train backup interviewers",
+        "buffer": "Schedule 1-2 weeks out"
+      },
+      {
+        "risk": "Candidate Drops Out",
+        "timing": "Any time",
+        "impact": "Need to restart with new candidates",
+        "mitigation": "Maintain warm pipeline, move quickly, stay engaged",
+        "buffer": "Keep multiple candidates moving through process"
+      },
+      {
+        "risk": "Offer Negotiation Extends",
+        "timing": "Weeks 9-10",
+        "impact": "Delayed start date",
+        "mitigation": "Discuss comp early, understand expectations, have flexibility",
+        "buffer": "Build 1 week into offer phase"
+      },
+      {
+        "risk": "Background Check Delays",
+        "timing": "Week 10+",
+        "impact": "Cannot confirm start date",
+        "mitigation": "Use reputable background check vendor, initiate immediately",
+        "buffer": "Allow 1-2 weeks for background check"
+      }
+    ],
+    "communication_plan": {
+      "internal_communication": {
+        "daily": [
+          "Recruiter checks pipeline and responds to applications",
+          "Hiring manager reviews new candidates"
+        ],
+        "weekly": [
+          "Pipeline review meeting (recruiter + hiring manager)",
+          "Interview debriefs for each candidate",
+          "Status update to broader team"
+        ],
+        "bi_weekly": [
+          "Metrics review and strategy adjustment",
+          "Leadership update on progress"
+        ]
+      },
+      "candidate_communication": {
+        "application_received": "Auto-acknowledgment within 24 hours",
+        "after_screening": "Decision within 2-3 business days",
+        "between_interviews": "Update within 3 business days",
+        "after_final_interview": "Decision within 48 hours",
+        "offer_extended": "Daily follow-up until decision",
+        "rejection": "Personalized note with feedback where appropriate"
+      },
+      "stakeholder_updates": {
+        "weekly": "Pipeline status to hiring team",
+        "milestone_based": "Updates at each major milestone",
+        "monthly": "Full metrics and strategy review with leadership",
+        "issues": "Immediate escalation of any blockers or risks"
+      },
+      "tools": [
+        "ATS for tracking candidates",
+        "Shared calendar for interviews",
+        "Slack/Email for daily updates",
+        "Dashboard for metrics",
+        "Regular meetings for alignment"
+      ]
+    }
+  }
+}

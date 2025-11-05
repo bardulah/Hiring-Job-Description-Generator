@@ -1,0 +1,166 @@
+
+================================================================================
+HIRING PLAN: Senior Product Manager
+Acme Technologies
+================================================================================
+
+Generated: 2025-11-05T19:51:21.044563
+Target Headcount: 1
+Urgency: MEDIUM
+
+HIRING STRATEGY
+================================================================================
+This hiring plan outlines the strategy for hiring 1 Senior Product Manager(s).
+The plan focuses on attracting top talent through a multi-channel sourcing approach, rigorous
+evaluation process, and competitive compensation packages.
+
+Key Priorities:
+• Balance speed with quality of hire
+• Build diverse candidate pipeline
+• Maintain positive candidate experience
+• Leverage multiple sourcing channels
+
+Target Candidate Profile:
+
+Background:
+  • Senior PMs from top tech companies or successful startups
+  • Candidates with experience scaling products
+  • Track record of driving significant business impact
+  • Experience mentoring junior PMs
+
+Experience:
+  • 6-9 years in product management
+  • Led product strategy for major product lines
+  • Experience with P&L ownership
+  • Built and managed product teams
+
+Traits:
+  • Visionary leader
+  • Exceptional strategic thinking
+  • Strong executive communication
+  • Proven people development skills
+  • Bias for action
+
+SOURCING PLAN
+================================================================================
+
+Employee Referrals (Priority: High)
+Expected: 30% of hires
+  • Launch internal referral campaign with incentives
+  • Brief team on ideal candidate profile
+  • Provide easy referral submission process
+  • Track and acknowledge all referrals within 48 hours
+
+Direct Sourcing/Outreach (Priority: High)
+Expected: 25% of hires
+  • LinkedIn Recruiter searches with targeted criteria
+  • Engage passive candidates with personalized messages
+  • Leverage GitHub, ProductHunt, and Medium for active PMs
+  • Attend industry events and conferences
+
+Job Boards (Priority: Medium)
+Expected: 20% of hires
+  • Post on LinkedIn, Indeed, Glassdoor
+  • Use specialized boards: AngelList, ProductHQ, MindTheProduct
+  • Optimize job postings for SEO and discoverability
+  • Monitor and respond to applications within 24 hours
+
+Recruiting Agencies (Priority: Low)
+Expected: 15% of hires
+  • Partner with 2-3 specialized PM recruiting firms
+  • Provide detailed candidate profile and expectations
+  • Set clear SLAs for candidate submission and feedback
+  • Review agency performance monthly
+
+PM Communities (Priority: Medium)
+Expected: 10% of hires
+  • Engage with PM Slack groups and forums
+  • Sponsor/speak at PM meetups and events
+  • Create valuable content to attract candidates
+  • Build relationships with PM influencers
+
+Pipeline Goals:
+  • Sourced Candidates: 100
+  • Screening Calls: 40
+  • First Round Interviews: 20
+  • Final Round Interviews: 8
+  • Offers Extended: 2
+  • Target Hires: 1
+
+BUDGET
+================================================================================
+
+Recruiting Costs:
+  • Job Board Postings: $2,000
+  • Recruiting Agency Fees: $15,000 (if used, 20-25% of first year salary)
+  • Employee Referral Bonuses: $2,500
+  • Recruiting Software: $500/month
+  • Events And Networking: $1,000
+  • Total Recruiting: $20,500
+
+Compensation Budget:
+  • Annual Salary Range: $160,000 - $190,000
+  • Equity Value: 0.15% - 0.25% stock options
+  • Signing Bonus: Up to 15% of base salary
+  • Relocation: Up to $10,000 if applicable
+
+Onboarding Costs:
+  • Equipment And Setup: $3,000
+  • Training And Development: $2,000
+  • Total Onboarding: $5,000
+
+SUCCESS METRICS
+================================================================================
+
+Efficiency Metrics:
+  • Time To Hire: Target: <60 days from job posting to offer acceptance
+  • Time To Fill: Target: <90 days from requisition approval to start date
+  • Cost Per Hire: Target: <$20,000 per hire
+  • Offer Acceptance Rate: Target: >80%
+
+Quality Metrics:
+  • Quality Of Hire: Measured by 90-day performance review score (target: 4.0+/5.0)
+  • Hiring Manager Satisfaction: Target: 4.5+/5.0 satisfaction score
+  • New Hire Retention: Target: >90% retention at 12 months
+  • Cultural Fit: Measured in performance reviews and 360 feedback
+
+Pipeline Metrics:
+  • Candidate Pipeline Health: Maintain 3:1 ratio of candidates to open roles
+  • Source Effectiveness: Track conversion rate by source channel
+  • Diversity Metrics: Track diversity at each stage of funnel
+  • Candidate Experience: Target: 4.0+/5.0 candidate satisfaction score
+
+RISKS AND MITIGATIONS
+================================================================================
+
+Risk: Competitive market for PM talent
+Impact: High
+Mitigation: Develop strong employer brand, competitive compensation, fast decision-making process, and compelling growth opportunities
+
+Risk: Extended time to hire leads to losing candidates
+Impact: High
+Mitigation: Streamline interview process, set clear timelines, maintain regular candidate communication, expedite internal approvals
+
+Risk: Insufficient candidate pipeline
+Impact: High
+Mitigation: Multi-channel sourcing approach, build talent community, start sourcing before opening is approved, leverage employee networks
+
+Risk: Poor candidate experience damages employer brand
+Impact: Medium
+Mitigation: Timely communication, respectful interview process, gather and act on candidate feedback, personalized interactions
+
+Risk: Interview panel availability constraints
+Impact: Medium
+Mitigation: Block recurring interview time slots, train backup interviewers, use asynchronous assessment tools where appropriate
+
+Risk: Mis-hire due to rushed process
+Impact: High
+Mitigation: Maintain interview standards regardless of urgency, use structured interviews and rubrics, involve multiple interviewers
+
+Risk: Offer rejections due to compensation
+Impact: Medium
+Mitigation: Research market rates, understand candidate expectations early, have flexibility in comp structure, highlight total comp package
+
+Risk: Limited pool of qualified senior candidates
+Impact: High
+Mitigation: Start outreach to passive candidates early, consider candidates from adjacent industries, build relationships over time
