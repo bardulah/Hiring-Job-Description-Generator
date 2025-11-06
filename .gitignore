@@ -50,5 +50,6 @@ data/
 htmlcov/
 .tox/
 
-# Output (optional - uncomment to exclude generated files)
-# output/
+# Output (generated files - exclude from repo)
+output/
+test_output/
