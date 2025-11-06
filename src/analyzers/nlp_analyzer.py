@@ -4,7 +4,7 @@ Uses natural language processing for intelligent extraction.
 """
 
 import re
-from typing import Dict, List, Any, Set, Tuple
+from typing import Dict, List, Any, Set, Tuple, Optional
 from collections import Counter
 from ..core.models import JobDescription, AnalysisResult
 from ..core.exceptions import AnalysisError, InsufficientDataError

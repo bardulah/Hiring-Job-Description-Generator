@@ -15,7 +15,7 @@ class TestJobDescription:
         jd = JobDescription(
             title="Senior Product Manager",
             company="TestCorp",
-            description="A" * 100  # 100 words minimum
+            description=" ".join(["word"] * 100)  # 100 words minimum
         )
         assert jd.title == "Senior Product Manager"
         assert jd.company == "TestCorp"

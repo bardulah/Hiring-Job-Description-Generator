@@ -67,7 +67,7 @@ class TestNLPAnalyzer:
             JobDescription(
                 title="PM",
                 company="Corp",
-                description="A" * 100
+                description=" ".join(["word"] * 100)
             )
         ]
 
