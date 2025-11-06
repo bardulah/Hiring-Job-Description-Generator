@@ -37,5 +37,18 @@ env/
 .DS_Store
 Thumbs.db
 
+# Logs
+logs/
+*.log
+
+# Data and analytics
+data/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
 # Output (optional - uncomment to exclude generated files)
 # output/

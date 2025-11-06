@@ -1,1 +1,37 @@
-python>=3.7
+# Core Dependencies
+python>=3.9
+
+# Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# NLP & Text Processing
+spacy>=3.7.0
+nltk>=3.8.1
+
+# Data Processing
+pyyaml>=6.0.1
+python-multipart>=0.0.6
+
+# Output Formats
+markdown>=3.5
+reportlab>=4.0.0
+
+# Async & Performance
+aiofiles>=23.2.1
+cachetools>=5.3.0
+
+# Utilities
+python-dateutil>=2.8.2
+click>=8.1.7
+
+# Development & Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+httpx>=0.25.0
+
+# Optional: For better market data
+# requests>=2.31.0
